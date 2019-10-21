@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Pete/ALL-P70/SW/KiCad/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name AODox)(type Legacy)(uri ${KIPRJMOD}/AODox.lib)(options "")(descr ""))
+)
