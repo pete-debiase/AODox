@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri C:/Users/Pete/ALL-P70/SW/KiCad/keyswitches.pretty-master)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri C:/Users/Pete/ALL-P70/SW/KiCad/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts_AO)(type KiCad)(uri C:/Users/Pete/ALL-P70/SW/KiCad/keyboard_parts_AO.pretty)(options "")(descr ""))
+)
