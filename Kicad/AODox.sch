@@ -1,9 +1,10 @@
 EESchema Schematic File Version 4
+LIBS:AODox-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title "AODox"
 Date "2019-10-21"
 Rev "v1"
@@ -518,4 +519,10 @@ Text Label 4850 2000 3    50   ~ 0
 VCC
 Text Label 4950 2000 3    50   ~ 0
 GND
+$Sheet
+S 3150 5600 2700 1850
+U 5DAEEFD2
+F0 "Key Matrix" 50
+F1 "key_matrix.sch" 50
+$EndSheet
 $EndSCHEMATC
