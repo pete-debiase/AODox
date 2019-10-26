@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 2 2
 Title "AODox Key Matrix"
 Date "2019-10-22"
-Rev "v1"
+Rev "v2"
 Comp "AO Industries"
 Comment1 ""
 Comment2 "Author: Peter Adriano DeBiase"
@@ -20,7 +20,7 @@ U 1 1 5DAFB578
 P 2100 3050
 F 0 "K0:1" H 2100 3050 60  0000 C CNN
 F 1 "KEYSW" H 2100 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2100 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2100 3050 60  0001 C CNN
 F 3 "" H 2100 3050 60  0000 C CNN
 	1    2100 3050
 	1    0    0    -1  
@@ -44,7 +44,7 @@ U 1 1 5DAFB58D
 P 2100 3550
 F 0 "K1:1" H 2100 3550 60  0000 C CNN
 F 1 "KEYSW" H 2100 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2100 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2100 3550 60  0001 C CNN
 F 3 "" H 2100 3550 60  0000 C CNN
 	1    2100 3550
 	1    0    0    -1  
@@ -68,7 +68,7 @@ U 1 1 5DAFB5A2
 P 2100 4050
 F 0 "K2:1" H 2100 4050 60  0000 C CNN
 F 1 "KEYSW" H 2100 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2100 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2100 4050 60  0001 C CNN
 F 3 "" H 2100 4050 60  0000 C CNN
 	1    2100 4050
 	1    0    0    -1  
@@ -92,7 +92,7 @@ U 1 1 5DAFB5B7
 P 2100 4550
 F 0 "K3:1" H 2100 4550 60  0000 C CNN
 F 1 "KEYSW" H 2100 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2100 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2100 4550 60  0001 C CNN
 F 3 "" H 2100 4550 60  0000 C CNN
 	1    2100 4550
 	1    0    0    -1  
@@ -116,7 +116,7 @@ U 1 1 5DAFB5CC
 P 2100 5050
 F 0 "K4:1" H 2100 5050 60  0000 C CNN
 F 1 "KEYSW" H 2100 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2100 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2100 5050 60  0001 C CNN
 F 3 "" H 2100 5050 60  0000 C CNN
 	1    2100 5050
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5DB0DA05
 P 2800 3050
 F 0 "K0:2" H 2800 3050 60  0000 C CNN
 F 1 "KEYSW" H 2800 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2800 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2800 3050 60  0001 C CNN
 F 3 "" H 2800 3050 60  0000 C CNN
 	1    2800 3050
 	1    0    0    -1  
@@ -175,7 +175,7 @@ U 1 1 5DB0DA1A
 P 2800 3550
 F 0 "K1:2" H 2800 3550 60  0000 C CNN
 F 1 "KEYSW" H 2800 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2800 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2800 3550 60  0001 C CNN
 F 3 "" H 2800 3550 60  0000 C CNN
 	1    2800 3550
 	1    0    0    -1  
@@ -199,7 +199,7 @@ U 1 1 5DB0DA2F
 P 2800 4050
 F 0 "K2:2" H 2800 4050 60  0000 C CNN
 F 1 "KEYSW" H 2800 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2800 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2800 4050 60  0001 C CNN
 F 3 "" H 2800 4050 60  0000 C CNN
 	1    2800 4050
 	1    0    0    -1  
@@ -223,7 +223,7 @@ U 1 1 5DB0DA44
 P 2800 4550
 F 0 "K3:2" H 2800 4550 60  0000 C CNN
 F 1 "KEYSW" H 2800 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2800 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2800 4550 60  0001 C CNN
 F 3 "" H 2800 4550 60  0000 C CNN
 	1    2800 4550
 	1    0    0    -1  
@@ -247,7 +247,7 @@ U 1 1 5DB0DA59
 P 2800 5050
 F 0 "K4:2" H 2800 5050 60  0000 C CNN
 F 1 "KEYSW" H 2800 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 2800 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 2800 5050 60  0001 C CNN
 F 3 "" H 2800 5050 60  0000 C CNN
 	1    2800 5050
 	1    0    0    -1  
@@ -282,7 +282,7 @@ U 1 1 5DB0DA75
 P 3500 3050
 F 0 "K0:3" H 3500 3050 60  0000 C CNN
 F 1 "KEYSW" H 3500 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 3500 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 3500 3050 60  0001 C CNN
 F 3 "" H 3500 3050 60  0000 C CNN
 	1    3500 3050
 	1    0    0    -1  
@@ -306,7 +306,7 @@ U 1 1 5DB0DA8A
 P 3500 3550
 F 0 "K1:3" H 3500 3550 60  0000 C CNN
 F 1 "KEYSW" H 3500 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 3500 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 3500 3550 60  0001 C CNN
 F 3 "" H 3500 3550 60  0000 C CNN
 	1    3500 3550
 	1    0    0    -1  
@@ -330,7 +330,7 @@ U 1 1 5DB0DA9F
 P 3500 4050
 F 0 "K2:3" H 3500 4050 60  0000 C CNN
 F 1 "KEYSW" H 3500 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 3500 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 3500 4050 60  0001 C CNN
 F 3 "" H 3500 4050 60  0000 C CNN
 	1    3500 4050
 	1    0    0    -1  
@@ -354,7 +354,7 @@ U 1 1 5DB0DAB4
 P 3500 4550
 F 0 "K3:3" H 3500 4550 60  0000 C CNN
 F 1 "KEYSW" H 3500 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 3500 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 3500 4550 60  0001 C CNN
 F 3 "" H 3500 4550 60  0000 C CNN
 	1    3500 4550
 	1    0    0    -1  
@@ -378,7 +378,7 @@ U 1 1 5DB0DAC9
 P 3500 5050
 F 0 "K4:3" H 3500 5050 60  0000 C CNN
 F 1 "KEYSW" H 3500 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 3500 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 3500 5050 60  0001 C CNN
 F 3 "" H 3500 5050 60  0000 C CNN
 	1    3500 5050
 	1    0    0    -1  
@@ -413,7 +413,7 @@ U 1 1 5DB1B03B
 P 4200 3050
 F 0 "K0:4" H 4200 3050 60  0000 C CNN
 F 1 "KEYSW" H 4200 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4200 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4200 3050 60  0001 C CNN
 F 3 "" H 4200 3050 60  0000 C CNN
 	1    4200 3050
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 5DB1B050
 P 4200 3550
 F 0 "K1:4" H 4200 3550 60  0000 C CNN
 F 1 "KEYSW" H 4200 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4200 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4200 3550 60  0001 C CNN
 F 3 "" H 4200 3550 60  0000 C CNN
 	1    4200 3550
 	1    0    0    -1  
@@ -461,7 +461,7 @@ U 1 1 5DB1B065
 P 4200 4050
 F 0 "K2:4" H 4200 4050 60  0000 C CNN
 F 1 "KEYSW" H 4200 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4200 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4200 4050 60  0001 C CNN
 F 3 "" H 4200 4050 60  0000 C CNN
 	1    4200 4050
 	1    0    0    -1  
@@ -485,7 +485,7 @@ U 1 1 5DB1B07A
 P 4200 4550
 F 0 "K3:4" H 4200 4550 60  0000 C CNN
 F 1 "KEYSW" H 4200 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4200 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4200 4550 60  0001 C CNN
 F 3 "" H 4200 4550 60  0000 C CNN
 	1    4200 4550
 	1    0    0    -1  
@@ -509,7 +509,7 @@ U 1 1 5DB1B08F
 P 4200 5050
 F 0 "K4:4" H 4200 5050 60  0000 C CNN
 F 1 "KEYSW" H 4200 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4200 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4200 5050 60  0001 C CNN
 F 3 "" H 4200 5050 60  0000 C CNN
 	1    4200 5050
 	1    0    0    -1  
@@ -544,7 +544,7 @@ U 1 1 5DB1B0AB
 P 4900 3050
 F 0 "K0:5" H 4900 3050 60  0000 C CNN
 F 1 "KEYSW" H 4900 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4900 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4900 3050 60  0001 C CNN
 F 3 "" H 4900 3050 60  0000 C CNN
 	1    4900 3050
 	1    0    0    -1  
@@ -568,7 +568,7 @@ U 1 1 5DB1B0C0
 P 4900 3550
 F 0 "K1:5" H 4900 3550 60  0000 C CNN
 F 1 "KEYSW" H 4900 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4900 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4900 3550 60  0001 C CNN
 F 3 "" H 4900 3550 60  0000 C CNN
 	1    4900 3550
 	1    0    0    -1  
@@ -592,7 +592,7 @@ U 1 1 5DB1B0D5
 P 4900 4050
 F 0 "K2:5" H 4900 4050 60  0000 C CNN
 F 1 "KEYSW" H 4900 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4900 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4900 4050 60  0001 C CNN
 F 3 "" H 4900 4050 60  0000 C CNN
 	1    4900 4050
 	1    0    0    -1  
@@ -616,7 +616,7 @@ U 1 1 5DB1B0EA
 P 4900 4550
 F 0 "K3:5" H 4900 4550 60  0000 C CNN
 F 1 "KEYSW" H 4900 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4900 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4900 4550 60  0001 C CNN
 F 3 "" H 4900 4550 60  0000 C CNN
 	1    4900 4550
 	1    0    0    -1  
@@ -640,7 +640,7 @@ U 1 1 5DB1B0FF
 P 4900 5050
 F 0 "K4:5" H 4900 5050 60  0000 C CNN
 F 1 "KEYSW" H 4900 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 4900 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 4900 5050 60  0001 C CNN
 F 3 "" H 4900 5050 60  0000 C CNN
 	1    4900 5050
 	1    0    0    -1  
@@ -675,7 +675,7 @@ U 1 1 5DB47D87
 P 5600 3050
 F 0 "K0:6" H 5600 3050 60  0000 C CNN
 F 1 "KEYSW" H 5600 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 5600 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 5600 3050 60  0001 C CNN
 F 3 "" H 5600 3050 60  0000 C CNN
 	1    5600 3050
 	1    0    0    -1  
@@ -699,7 +699,7 @@ U 1 1 5DB47D9C
 P 5600 3550
 F 0 "K1:6" H 5600 3550 60  0000 C CNN
 F 1 "KEYSW" H 5600 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 5600 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 5600 3550 60  0001 C CNN
 F 3 "" H 5600 3550 60  0000 C CNN
 	1    5600 3550
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5DB47DB1
 P 5600 4050
 F 0 "K2:6" H 5600 4050 60  0000 C CNN
 F 1 "KEYSW" H 5600 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 5600 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 5600 4050 60  0001 C CNN
 F 3 "" H 5600 4050 60  0000 C CNN
 	1    5600 4050
 	1    0    0    -1  
@@ -747,7 +747,7 @@ U 1 1 5DB47DC6
 P 5600 5050
 F 0 "K4:6" H 5600 5050 60  0000 C CNN
 F 1 "KEYSW" H 5600 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 5600 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 5600 5050 60  0001 C CNN
 F 3 "" H 5600 5050 60  0000 C CNN
 	1    5600 5050
 	1    0    0    -1  
@@ -776,7 +776,7 @@ U 1 1 5DB4F1C9
 P 6300 5050
 F 0 "K4:7" H 6300 5050 60  0000 C CNN
 F 1 "KEYSW" H 6300 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 6300 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 6300 5050 60  0001 C CNN
 F 3 "" H 6300 5050 60  0000 C CNN
 	1    6300 5050
 	1    0    0    -1  
@@ -800,7 +800,7 @@ U 1 1 5DB52AB6
 P 6300 4550
 F 0 "K3:7" H 6300 4550 60  0000 C CNN
 F 1 "KEYSW" H 6300 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 6300 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 6300 4550 60  0001 C CNN
 F 3 "" H 6300 4550 60  0000 C CNN
 	1    6300 4550
 	1    0    0    -1  
@@ -848,7 +848,7 @@ U 1 1 5DAF9883
 P 1400 5050
 F 0 "K4:0" H 1400 5050 60  0000 C CNN
 F 1 "KEYSW" H 1400 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 1400 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 1400 5050 60  0001 C CNN
 F 3 "" H 1400 5050 60  0000 C CNN
 	1    1400 5050
 	1    0    0    -1  
@@ -872,7 +872,7 @@ U 1 1 5DAF80A8
 P 1400 4550
 F 0 "K3:0" H 1400 4550 60  0000 C CNN
 F 1 "KEYSW" H 1400 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 1400 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 1400 4550 60  0001 C CNN
 F 3 "" H 1400 4550 60  0000 C CNN
 	1    1400 4550
 	1    0    0    -1  
@@ -896,7 +896,7 @@ U 1 1 5DAF8093
 P 1400 4050
 F 0 "K2:0" H 1400 4050 60  0000 C CNN
 F 1 "KEYSW" H 1400 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 1400 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 1400 4050 60  0001 C CNN
 F 3 "" H 1400 4050 60  0000 C CNN
 	1    1400 4050
 	1    0    0    -1  
@@ -920,7 +920,7 @@ U 1 1 5DAF5851
 P 1400 3550
 F 0 "K1:0" H 1400 3550 60  0000 C CNN
 F 1 "KEYSW" H 1400 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 1400 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 1400 3550 60  0001 C CNN
 F 3 "" H 1400 3550 60  0000 C CNN
 	1    1400 3550
 	1    0    0    -1  
@@ -944,7 +944,7 @@ U 1 1 5DAEFA09
 P 1400 3050
 F 0 "K0:0" H 1400 3050 60  0000 C CNN
 F 1 "KEYSW" H 1400 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 1400 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 1400 3050 60  0001 C CNN
 F 3 "" H 1400 3050 60  0000 C CNN
 	1    1400 3050
 	1    0    0    -1  
@@ -955,36 +955,12 @@ Wire Wire Line
 	5900 5050 5900 4050
 Connection ~ 5900 4050
 $Comp
-L keyboard_parts:KEYSW K0:8
-U 1 1 5DB799A7
-P 7250 3050
-F 0 "K0:8" H 7250 3050 60  0000 C CNN
-F 1 "KEYSW" H 7250 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 7250 3050 60  0001 C CNN
-F 3 "" H 7250 3050 60  0000 C CNN
-	1    7250 3050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small_ALT D0:8
-U 1 1 5DB799B1
-P 6950 3250
-F 0 "D0:8" V 6950 3200 50  0000 R CNN
-F 1 "D_Small_ALT" V 6905 3182 50  0001 R CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 6950 3250 50  0001 C CNN
-F 3 "~" V 6950 3250 50  0001 C CNN
-	1    6950 3250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6950 3150 6950 3050
-$Comp
 L keyboard_parts:KEYSW K1:8
 U 1 1 5DB799BC
 P 7250 3550
 F 0 "K1:8" H 7250 3550 60  0000 C CNN
 F 1 "KEYSW" H 7250 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 7250 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 7250 3550 60  0001 C CNN
 F 3 "" H 7250 3550 60  0000 C CNN
 	1    7250 3550
 	1    0    0    -1  
@@ -1008,7 +984,7 @@ U 1 1 5DB799D1
 P 7250 4050
 F 0 "K2:8" H 7250 4050 60  0000 C CNN
 F 1 "KEYSW" H 7250 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 7250 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 7250 4050 60  0001 C CNN
 F 3 "" H 7250 4050 60  0000 C CNN
 	1    7250 4050
 	1    0    0    -1  
@@ -1026,72 +1002,16 @@ F 3 "~" V 6950 4250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6950 4150 6950 4050
-$Comp
-L keyboard_parts:KEYSW K3:8
-U 1 1 5DB799E6
-P 7250 4550
-F 0 "K3:8" H 7250 4550 60  0000 C CNN
-F 1 "KEYSW" H 7250 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 7250 4550 60  0001 C CNN
-F 3 "" H 7250 4550 60  0000 C CNN
-	1    7250 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small_ALT D3:8
-U 1 1 5DB799F0
-P 6950 4750
-F 0 "D3:8" V 6950 4700 50  0000 R CNN
-F 1 "D_Small_ALT" V 6905 4682 50  0001 R CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 6950 4750 50  0001 C CNN
-F 3 "~" V 6950 4750 50  0001 C CNN
-	1    6950 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6950 4650 6950 4550
-$Comp
-L keyboard_parts:KEYSW K4:8
-U 1 1 5DB799FB
-P 7250 5050
-F 0 "K4:8" H 7250 5050 60  0000 C CNN
-F 1 "KEYSW" H 7250 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 7250 5050 60  0001 C CNN
-F 3 "" H 7250 5050 60  0000 C CNN
-	1    7250 5050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small_ALT D4:8
-U 1 1 5DB79A05
-P 6950 5250
-F 0 "D4:8" V 6950 5200 50  0000 R CNN
-F 1 "D_Small_ALT" V 6905 5182 50  0001 R CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 6950 5250 50  0001 C CNN
-F 3 "~" V 6950 5250 50  0001 C CNN
-	1    6950 5250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6950 5150 6950 5050
-Wire Wire Line
-	7550 5050 7550 4550
-Wire Wire Line
-	7550 4550 7550 4050
-Connection ~ 7550 4550
 Wire Wire Line
 	7550 4050 7550 3550
-Connection ~ 7550 4050
 Connection ~ 7550 3550
-Wire Wire Line
-	7550 3550 7550 3050
 $Comp
 L keyboard_parts:KEYSW K4:9
 U 1 1 5DB833A3
 P 8200 5050
 F 0 "K4:9" H 8200 5050 60  0000 C CNN
 F 1 "KEYSW" H 8200 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8200 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8200 5050 60  0001 C CNN
 F 3 "" H 8200 5050 60  0000 C CNN
 	1    8200 5050
 	1    0    0    -1  
@@ -1115,7 +1035,7 @@ U 1 1 5DB833B8
 P 8200 4550
 F 0 "K3:9" H 8200 4550 60  0000 C CNN
 F 1 "KEYSW" H 8200 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8200 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8200 4550 60  0001 C CNN
 F 3 "" H 8200 4550 60  0000 C CNN
 	1    8200 4550
 	1    0    0    -1  
@@ -1141,7 +1061,7 @@ U 1 1 5DB87D68
 P 8900 3050
 F 0 "K0:10" H 8900 3050 60  0000 C CNN
 F 1 "KEYSW" H 8900 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8900 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8900 3050 60  0001 C CNN
 F 3 "" H 8900 3050 60  0000 C CNN
 	1    8900 3050
 	1    0    0    -1  
@@ -1165,7 +1085,7 @@ U 1 1 5DB87D7D
 P 8900 3550
 F 0 "K1:10" H 8900 3550 60  0000 C CNN
 F 1 "KEYSW" H 8900 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8900 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8900 3550 60  0001 C CNN
 F 3 "" H 8900 3550 60  0000 C CNN
 	1    8900 3550
 	1    0    0    -1  
@@ -1189,7 +1109,7 @@ U 1 1 5DB87D92
 P 8900 4050
 F 0 "K2:10" H 8900 4050 60  0000 C CNN
 F 1 "KEYSW" H 8900 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8900 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8900 4050 60  0001 C CNN
 F 3 "" H 8900 4050 60  0000 C CNN
 	1    8900 4050
 	1    0    0    -1  
@@ -1213,7 +1133,7 @@ U 1 1 5DB87DA7
 P 8900 5050
 F 0 "K4:10" H 8900 5050 60  0000 C CNN
 F 1 "KEYSW" H 8900 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 8900 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 8900 5050 60  0001 C CNN
 F 3 "" H 8900 5050 60  0000 C CNN
 	1    8900 5050
 	1    0    0    -1  
@@ -1245,7 +1165,7 @@ U 1 1 5DB8E6D8
 P 10300 3050
 F 0 "K0:12" H 10300 3050 60  0000 C CNN
 F 1 "KEYSW" H 10300 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 10300 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 10300 3050 60  0001 C CNN
 F 3 "" H 10300 3050 60  0000 C CNN
 	1    10300 3050
 	1    0    0    -1  
@@ -1269,7 +1189,7 @@ U 1 1 5DB8E6ED
 P 10300 3550
 F 0 "K1:12" H 10300 3550 60  0000 C CNN
 F 1 "KEYSW" H 10300 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 10300 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 10300 3550 60  0001 C CNN
 F 3 "" H 10300 3550 60  0000 C CNN
 	1    10300 3550
 	1    0    0    -1  
@@ -1293,7 +1213,7 @@ U 1 1 5DB8E702
 P 10300 4050
 F 0 "K2:12" H 10300 4050 60  0000 C CNN
 F 1 "KEYSW" H 10300 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 10300 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 10300 4050 60  0001 C CNN
 F 3 "" H 10300 4050 60  0000 C CNN
 	1    10300 4050
 	1    0    0    -1  
@@ -1317,7 +1237,7 @@ U 1 1 5DB8E717
 P 10300 4550
 F 0 "K3:12" H 10300 4550 60  0000 C CNN
 F 1 "KEYSW" H 10300 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 10300 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 10300 4550 60  0001 C CNN
 F 3 "" H 10300 4550 60  0000 C CNN
 	1    10300 4550
 	1    0    0    -1  
@@ -1341,7 +1261,7 @@ U 1 1 5DB8E72C
 P 10300 5050
 F 0 "K4:12" H 10300 5050 60  0000 C CNN
 F 1 "KEYSW" H 10300 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 10300 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 10300 5050 60  0001 C CNN
 F 3 "" H 10300 5050 60  0000 C CNN
 	1    10300 5050
 	1    0    0    -1  
@@ -1376,7 +1296,7 @@ U 1 1 5DB8E748
 P 11000 3050
 F 0 "K0:13" H 11000 3050 60  0000 C CNN
 F 1 "KEYSW" H 11000 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11000 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11000 3050 60  0001 C CNN
 F 3 "" H 11000 3050 60  0000 C CNN
 	1    11000 3050
 	1    0    0    -1  
@@ -1400,7 +1320,7 @@ U 1 1 5DB8E75D
 P 11000 3550
 F 0 "K1:13" H 11000 3550 60  0000 C CNN
 F 1 "KEYSW" H 11000 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11000 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11000 3550 60  0001 C CNN
 F 3 "" H 11000 3550 60  0000 C CNN
 	1    11000 3550
 	1    0    0    -1  
@@ -1424,7 +1344,7 @@ U 1 1 5DB8E772
 P 11000 4050
 F 0 "K2:13" H 11000 4050 60  0000 C CNN
 F 1 "KEYSW" H 11000 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11000 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11000 4050 60  0001 C CNN
 F 3 "" H 11000 4050 60  0000 C CNN
 	1    11000 4050
 	1    0    0    -1  
@@ -1448,7 +1368,7 @@ U 1 1 5DB8E787
 P 11000 4550
 F 0 "K3:13" H 11000 4550 60  0000 C CNN
 F 1 "KEYSW" H 11000 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11000 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11000 4550 60  0001 C CNN
 F 3 "" H 11000 4550 60  0000 C CNN
 	1    11000 4550
 	1    0    0    -1  
@@ -1472,7 +1392,7 @@ U 1 1 5DB8E79C
 P 11000 5050
 F 0 "K4:13" H 11000 5050 60  0000 C CNN
 F 1 "KEYSW" H 11000 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11000 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11000 5050 60  0001 C CNN
 F 3 "" H 11000 5050 60  0000 C CNN
 	1    11000 5050
 	1    0    0    -1  
@@ -1507,7 +1427,7 @@ U 1 1 5DB8E7B8
 P 11700 3050
 F 0 "K0:14" H 11700 3050 60  0000 C CNN
 F 1 "KEYSW" H 11700 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11700 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11700 3050 60  0001 C CNN
 F 3 "" H 11700 3050 60  0000 C CNN
 	1    11700 3050
 	1    0    0    -1  
@@ -1531,7 +1451,7 @@ U 1 1 5DB8E7CD
 P 11700 3550
 F 0 "K1:14" H 11700 3550 60  0000 C CNN
 F 1 "KEYSW" H 11700 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11700 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11700 3550 60  0001 C CNN
 F 3 "" H 11700 3550 60  0000 C CNN
 	1    11700 3550
 	1    0    0    -1  
@@ -1555,7 +1475,7 @@ U 1 1 5DB8E7E2
 P 11700 4050
 F 0 "K2:14" H 11700 4050 60  0000 C CNN
 F 1 "KEYSW" H 11700 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11700 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11700 4050 60  0001 C CNN
 F 3 "" H 11700 4050 60  0000 C CNN
 	1    11700 4050
 	1    0    0    -1  
@@ -1579,7 +1499,7 @@ U 1 1 5DB8E7F7
 P 11700 4550
 F 0 "K3:14" H 11700 4550 60  0000 C CNN
 F 1 "KEYSW" H 11700 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11700 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11700 4550 60  0001 C CNN
 F 3 "" H 11700 4550 60  0000 C CNN
 	1    11700 4550
 	1    0    0    -1  
@@ -1603,7 +1523,7 @@ U 1 1 5DB8E80C
 P 11700 5050
 F 0 "K4:14" H 11700 5050 60  0000 C CNN
 F 1 "KEYSW" H 11700 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 11700 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 11700 5050 60  0001 C CNN
 F 3 "" H 11700 5050 60  0000 C CNN
 	1    11700 5050
 	1    0    0    -1  
@@ -1638,7 +1558,7 @@ U 1 1 5DB8E828
 P 12400 3050
 F 0 "K0:15" H 12400 3050 60  0000 C CNN
 F 1 "KEYSW" H 12400 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 12400 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 12400 3050 60  0001 C CNN
 F 3 "" H 12400 3050 60  0000 C CNN
 	1    12400 3050
 	1    0    0    -1  
@@ -1662,7 +1582,7 @@ U 1 1 5DB8E83D
 P 12400 3550
 F 0 "K1:15" H 12400 3550 60  0000 C CNN
 F 1 "KEYSW" H 12400 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 12400 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 12400 3550 60  0001 C CNN
 F 3 "" H 12400 3550 60  0000 C CNN
 	1    12400 3550
 	1    0    0    -1  
@@ -1686,7 +1606,7 @@ U 1 1 5DB8E852
 P 12400 4050
 F 0 "K2:15" H 12400 4050 60  0000 C CNN
 F 1 "KEYSW" H 12400 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 12400 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 12400 4050 60  0001 C CNN
 F 3 "" H 12400 4050 60  0000 C CNN
 	1    12400 4050
 	1    0    0    -1  
@@ -1710,7 +1630,7 @@ U 1 1 5DB8E867
 P 12400 4550
 F 0 "K3:15" H 12400 4550 60  0000 C CNN
 F 1 "KEYSW" H 12400 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 12400 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 12400 4550 60  0001 C CNN
 F 3 "" H 12400 4550 60  0000 C CNN
 	1    12400 4550
 	1    0    0    -1  
@@ -1734,7 +1654,7 @@ U 1 1 5DB8E87C
 P 12400 5050
 F 0 "K4:15" H 12400 5050 60  0000 C CNN
 F 1 "KEYSW" H 12400 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 12400 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 12400 5050 60  0001 C CNN
 F 3 "" H 12400 5050 60  0000 C CNN
 	1    12400 5050
 	1    0    0    -1  
@@ -1769,7 +1689,7 @@ U 1 1 5DB8E898
 P 13100 3050
 F 0 "K0:16" H 13100 3050 60  0000 C CNN
 F 1 "KEYSW" H 13100 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 13100 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 13100 3050 60  0001 C CNN
 F 3 "" H 13100 3050 60  0000 C CNN
 	1    13100 3050
 	1    0    0    -1  
@@ -1793,7 +1713,7 @@ U 1 1 5DB8E8AD
 P 13100 3550
 F 0 "K1:16" H 13100 3550 60  0000 C CNN
 F 1 "KEYSW" H 13100 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 13100 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 13100 3550 60  0001 C CNN
 F 3 "" H 13100 3550 60  0000 C CNN
 	1    13100 3550
 	1    0    0    -1  
@@ -1817,7 +1737,7 @@ U 1 1 5DB8E8C2
 P 13100 4050
 F 0 "K2:16" H 13100 4050 60  0000 C CNN
 F 1 "KEYSW" H 13100 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 13100 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 13100 4050 60  0001 C CNN
 F 3 "" H 13100 4050 60  0000 C CNN
 	1    13100 4050
 	1    0    0    -1  
@@ -1841,7 +1761,7 @@ U 1 1 5DB8E8D7
 P 13100 4550
 F 0 "K3:16" H 13100 4550 60  0000 C CNN
 F 1 "KEYSW" H 13100 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 13100 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 13100 4550 60  0001 C CNN
 F 3 "" H 13100 4550 60  0000 C CNN
 	1    13100 4550
 	1    0    0    -1  
@@ -1865,7 +1785,7 @@ U 1 1 5DB8E8EC
 P 13100 5050
 F 0 "K4:16" H 13100 5050 60  0000 C CNN
 F 1 "KEYSW" H 13100 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 13100 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 13100 5050 60  0001 C CNN
 F 3 "" H 13100 5050 60  0000 C CNN
 	1    13100 5050
 	1    0    0    -1  
@@ -1924,7 +1844,7 @@ U 1 1 5DB8E91A
 P 9600 5050
 F 0 "K4:11" H 9600 5050 60  0000 C CNN
 F 1 "KEYSW" H 9600 4950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 9600 5050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 9600 5050 60  0001 C CNN
 F 3 "" H 9600 5050 60  0000 C CNN
 	1    9600 5050
 	1    0    0    -1  
@@ -1948,7 +1868,7 @@ U 1 1 5DB8E92F
 P 9600 4550
 F 0 "K3:11" H 9600 4550 60  0000 C CNN
 F 1 "KEYSW" H 9600 4450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 9600 4550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 9600 4550 60  0001 C CNN
 F 3 "" H 9600 4550 60  0000 C CNN
 	1    9600 4550
 	1    0    0    -1  
@@ -1972,7 +1892,7 @@ U 1 1 5DB8E944
 P 9600 4050
 F 0 "K2:11" H 9600 4050 60  0000 C CNN
 F 1 "KEYSW" H 9600 3950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 9600 4050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 9600 4050 60  0001 C CNN
 F 3 "" H 9600 4050 60  0000 C CNN
 	1    9600 4050
 	1    0    0    -1  
@@ -1996,7 +1916,7 @@ U 1 1 5DB8E959
 P 9600 3550
 F 0 "K1:11" H 9600 3550 60  0000 C CNN
 F 1 "KEYSW" H 9600 3450 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 9600 3550 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 9600 3550 60  0001 C CNN
 F 3 "" H 9600 3550 60  0000 C CNN
 	1    9600 3550
 	1    0    0    -1  
@@ -2020,7 +1940,7 @@ U 1 1 5DB8E96E
 P 9600 3050
 F 0 "K0:11" H 9600 3050 60  0000 C CNN
 F 1 "KEYSW" H 9600 2950 60  0001 C CNN
-F 2 "keyswitches_AO:Kailh_socket" H 9600 3050 60  0001 C CNN
+F 2 "keyboard_parts_AO:Kailh_socket" H 9600 3050 60  0001 C CNN
 F 3 "" H 9600 3050 60  0000 C CNN
 	1    9600 3050
 	1    0    0    -1  
@@ -2043,11 +1963,6 @@ Connection ~ 4600 3350
 Wire Wire Line
 	4600 3350 5300 3350
 Connection ~ 5300 3350
-Wire Wire Line
-	5300 3350 6950 3350
-Connection ~ 6950 3350
-Wire Wire Line
-	6950 3350 8600 3350
 Connection ~ 8600 3350
 Wire Wire Line
 	8600 3350 9300 3350
@@ -2166,11 +2081,6 @@ Connection ~ 4600 4850
 Wire Wire Line
 	4600 4850 6000 4850
 Connection ~ 6000 4850
-Wire Wire Line
-	6000 4850 6950 4850
-Connection ~ 6950 4850
-Wire Wire Line
-	6950 4850 7900 4850
 Connection ~ 7900 4850
 Wire Wire Line
 	7900 4850 9300 4850
@@ -2210,11 +2120,6 @@ Connection ~ 5300 5350
 Wire Wire Line
 	5300 5350 6000 5350
 Connection ~ 6000 5350
-Wire Wire Line
-	6000 5350 6950 5350
-Connection ~ 6950 5350
-Wire Wire Line
-	6950 5350 7900 5350
 Connection ~ 7900 5350
 Wire Wire Line
 	7900 5350 8600 5350
@@ -2260,9 +2165,6 @@ Connection ~ 5900 3050
 Wire Wire Line
 	6600 4550 6600 2900
 Connection ~ 6600 4550
-Wire Wire Line
-	7550 3050 7550 2900
-Connection ~ 7550 3050
 Wire Wire Line
 	8500 4550 8500 2900
 Connection ~ 8500 4550
@@ -2346,4 +2248,12 @@ Text GLabel 950  4850 0    50   Input ~ 0
 row3
 Text GLabel 950  5350 0    50   Input ~ 0
 row4
+Wire Wire Line
+	7550 2900 7550 3550
+Wire Wire Line
+	5300 3350 8600 3350
+Wire Wire Line
+	6000 4850 7900 4850
+Wire Wire Line
+	6000 5350 7900 5350
 $EndSCHEMATC

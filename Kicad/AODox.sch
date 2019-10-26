@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 2
 Title "AODox"
 Date "2019-10-21"
-Rev "v1"
+Rev "v2"
 Comp "AO Industries"
 Comment1 ""
 Comment2 "Author: Peter Adriano DeBiase"
@@ -20,7 +20,7 @@ U 1 1 5DAE27ED
 P 6000 3900
 F 0 "U1" V 5900 3875 60  0000 L CNN
 F 1 "ATMEGA32U4" V 6025 3625 60  0000 L CNN
-F 2 "" H 6000 3900 60  0001 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 6000 3900 60  0001 C CNN
 F 3 "" H 6000 3900 60  0000 C CNN
 	1    6000 3900
 	0    1    1    0   
@@ -42,7 +42,7 @@ U 1 1 5DAEEB3A
 P 3850 3900
 F 0 "X1" H 3950 3750 60  0000 C CNN
 F 1 "XTAL_18p" H 3875 4050 60  0000 C CNN
-F 2 "" H 3850 3900 60  0001 C CNN
+F 2 "Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering" H 3850 3900 60  0001 C CNN
 F 3 "" H 3850 3900 60  0000 C CNN
 	1    3850 3900
 	1    0    0    -1  
@@ -260,7 +260,7 @@ U 1 1 5DB09B68
 P 3850 3500
 F 0 "SW1" H 3850 3650 50  0000 C CNN
 F 1 "SW_Push" H 3850 3450 50  0000 C CNN
-F 2 "" H 3850 3700 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_CK_KXT3" H 3850 3700 50  0001 C CNN
 F 3 "~" H 3850 3700 50  0001 C CNN
 	1    3850 3500
 	1    0    0    -1  
