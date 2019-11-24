@@ -1,4 +1,4 @@
-update=26/10/2019 10:16:02
+update=21/11/2019 23:18:05
 version=1
 last_client=kicad
 [general]
@@ -27,7 +27,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=AODox.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=1.2
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
@@ -37,7 +37,7 @@ MinViaDiameter=0.6
 MinViaDrill=0.3
 MinMicroViaDiameter=0.6
 MinMicroViaDrill=0.3
-MinHoleToHole=0.6
+MinHoleToHole=0.2794
 TrackWidth1=0.254
 ViaDiameter1=0.6
 ViaDrill1=0.3
@@ -237,7 +237,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.1524
+Clearance=0.127
 TrackWidth=0.254
 ViaDiameter=0.6
 ViaDrill=0.3
@@ -248,7 +248,7 @@ dPairGap=0.2032
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=PWR
-Clearance=0.254
+Clearance=0.127
 TrackWidth=0.508
 ViaDiameter=0.6
 ViaDrill=0.3

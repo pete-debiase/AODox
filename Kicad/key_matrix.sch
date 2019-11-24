@@ -15,9 +15,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keyboard_parts:KEYSW K0:1
+L AODox-rescue:KEYSW-keyboard_parts K0:1
 U 1 1 5DAFB578
 P 2100 3050
+AR Path="/5DAFB578" Ref="K0:1"  Part="1" 
+AR Path="/5DAEEFD2/5DAFB578" Ref="K0:1"  Part="1" 
 F 0 "K0:1" H 2100 3050 60  0000 C CNN
 F 1 "KEYSW" H 2100 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2100 3050 60  0001 C CNN
@@ -39,9 +41,11 @@ $EndComp
 Wire Wire Line
 	1800 3150 1800 3050
 $Comp
-L keyboard_parts:KEYSW K1:1
+L AODox-rescue:KEYSW-keyboard_parts K1:1
 U 1 1 5DAFB58D
 P 2100 3550
+AR Path="/5DAFB58D" Ref="K1:1"  Part="1" 
+AR Path="/5DAEEFD2/5DAFB58D" Ref="K1:1"  Part="1" 
 F 0 "K1:1" H 2100 3550 60  0000 C CNN
 F 1 "KEYSW" H 2100 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2100 3550 60  0001 C CNN
@@ -63,9 +67,11 @@ $EndComp
 Wire Wire Line
 	1800 3650 1800 3550
 $Comp
-L keyboard_parts:KEYSW K2:1
+L AODox-rescue:KEYSW-keyboard_parts K2:1
 U 1 1 5DAFB5A2
 P 2100 4050
+AR Path="/5DAFB5A2" Ref="K2:1"  Part="1" 
+AR Path="/5DAEEFD2/5DAFB5A2" Ref="K2:1"  Part="1" 
 F 0 "K2:1" H 2100 4050 60  0000 C CNN
 F 1 "KEYSW" H 2100 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2100 4050 60  0001 C CNN
@@ -87,9 +93,11 @@ $EndComp
 Wire Wire Line
 	1800 4150 1800 4050
 $Comp
-L keyboard_parts:KEYSW K3:1
+L AODox-rescue:KEYSW-keyboard_parts K3:1
 U 1 1 5DAFB5B7
 P 2100 4550
+AR Path="/5DAFB5B7" Ref="K3:1"  Part="1" 
+AR Path="/5DAEEFD2/5DAFB5B7" Ref="K3:1"  Part="1" 
 F 0 "K3:1" H 2100 4550 60  0000 C CNN
 F 1 "KEYSW" H 2100 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2100 4550 60  0001 C CNN
@@ -111,9 +119,11 @@ $EndComp
 Wire Wire Line
 	1800 4650 1800 4550
 $Comp
-L keyboard_parts:KEYSW K4:1
+L AODox-rescue:KEYSW-keyboard_parts K4:1
 U 1 1 5DAFB5CC
 P 2100 5050
+AR Path="/5DAFB5CC" Ref="K4:1"  Part="1" 
+AR Path="/5DAEEFD2/5DAFB5CC" Ref="K4:1"  Part="1" 
 F 0 "K4:1" H 2100 5050 60  0000 C CNN
 F 1 "KEYSW" H 2100 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2100 5050 60  0001 C CNN
@@ -146,9 +156,11 @@ Connection ~ 2400 3550
 Wire Wire Line
 	2400 3550 2400 3050
 $Comp
-L keyboard_parts:KEYSW K0:2
+L AODox-rescue:KEYSW-keyboard_parts K0:2
 U 1 1 5DB0DA05
 P 2800 3050
+AR Path="/5DB0DA05" Ref="K0:2"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA05" Ref="K0:2"  Part="1" 
 F 0 "K0:2" H 2800 3050 60  0000 C CNN
 F 1 "KEYSW" H 2800 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2800 3050 60  0001 C CNN
@@ -170,9 +182,11 @@ $EndComp
 Wire Wire Line
 	2500 3150 2500 3050
 $Comp
-L keyboard_parts:KEYSW K1:2
+L AODox-rescue:KEYSW-keyboard_parts K1:2
 U 1 1 5DB0DA1A
 P 2800 3550
+AR Path="/5DB0DA1A" Ref="K1:2"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA1A" Ref="K1:2"  Part="1" 
 F 0 "K1:2" H 2800 3550 60  0000 C CNN
 F 1 "KEYSW" H 2800 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2800 3550 60  0001 C CNN
@@ -194,9 +208,11 @@ $EndComp
 Wire Wire Line
 	2500 3650 2500 3550
 $Comp
-L keyboard_parts:KEYSW K2:2
+L AODox-rescue:KEYSW-keyboard_parts K2:2
 U 1 1 5DB0DA2F
 P 2800 4050
+AR Path="/5DB0DA2F" Ref="K2:2"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA2F" Ref="K2:2"  Part="1" 
 F 0 "K2:2" H 2800 4050 60  0000 C CNN
 F 1 "KEYSW" H 2800 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2800 4050 60  0001 C CNN
@@ -218,9 +234,11 @@ $EndComp
 Wire Wire Line
 	2500 4150 2500 4050
 $Comp
-L keyboard_parts:KEYSW K3:2
+L AODox-rescue:KEYSW-keyboard_parts K3:2
 U 1 1 5DB0DA44
 P 2800 4550
+AR Path="/5DB0DA44" Ref="K3:2"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA44" Ref="K3:2"  Part="1" 
 F 0 "K3:2" H 2800 4550 60  0000 C CNN
 F 1 "KEYSW" H 2800 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2800 4550 60  0001 C CNN
@@ -242,9 +260,11 @@ $EndComp
 Wire Wire Line
 	2500 4650 2500 4550
 $Comp
-L keyboard_parts:KEYSW K4:2
+L AODox-rescue:KEYSW-keyboard_parts K4:2
 U 1 1 5DB0DA59
 P 2800 5050
+AR Path="/5DB0DA59" Ref="K4:2"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA59" Ref="K4:2"  Part="1" 
 F 0 "K4:2" H 2800 5050 60  0000 C CNN
 F 1 "KEYSW" H 2800 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 2800 5050 60  0001 C CNN
@@ -277,9 +297,11 @@ Connection ~ 3100 3550
 Wire Wire Line
 	3100 3550 3100 3050
 $Comp
-L keyboard_parts:KEYSW K0:3
+L AODox-rescue:KEYSW-keyboard_parts K0:3
 U 1 1 5DB0DA75
 P 3500 3050
+AR Path="/5DB0DA75" Ref="K0:3"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA75" Ref="K0:3"  Part="1" 
 F 0 "K0:3" H 3500 3050 60  0000 C CNN
 F 1 "KEYSW" H 3500 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 3500 3050 60  0001 C CNN
@@ -301,9 +323,11 @@ $EndComp
 Wire Wire Line
 	3200 3150 3200 3050
 $Comp
-L keyboard_parts:KEYSW K1:3
+L AODox-rescue:KEYSW-keyboard_parts K1:3
 U 1 1 5DB0DA8A
 P 3500 3550
+AR Path="/5DB0DA8A" Ref="K1:3"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA8A" Ref="K1:3"  Part="1" 
 F 0 "K1:3" H 3500 3550 60  0000 C CNN
 F 1 "KEYSW" H 3500 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 3500 3550 60  0001 C CNN
@@ -325,9 +349,11 @@ $EndComp
 Wire Wire Line
 	3200 3650 3200 3550
 $Comp
-L keyboard_parts:KEYSW K2:3
+L AODox-rescue:KEYSW-keyboard_parts K2:3
 U 1 1 5DB0DA9F
 P 3500 4050
+AR Path="/5DB0DA9F" Ref="K2:3"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DA9F" Ref="K2:3"  Part="1" 
 F 0 "K2:3" H 3500 4050 60  0000 C CNN
 F 1 "KEYSW" H 3500 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 3500 4050 60  0001 C CNN
@@ -349,9 +375,11 @@ $EndComp
 Wire Wire Line
 	3200 4150 3200 4050
 $Comp
-L keyboard_parts:KEYSW K3:3
+L AODox-rescue:KEYSW-keyboard_parts K3:3
 U 1 1 5DB0DAB4
 P 3500 4550
+AR Path="/5DB0DAB4" Ref="K3:3"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DAB4" Ref="K3:3"  Part="1" 
 F 0 "K3:3" H 3500 4550 60  0000 C CNN
 F 1 "KEYSW" H 3500 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 3500 4550 60  0001 C CNN
@@ -373,9 +401,11 @@ $EndComp
 Wire Wire Line
 	3200 4650 3200 4550
 $Comp
-L keyboard_parts:KEYSW K4:3
+L AODox-rescue:KEYSW-keyboard_parts K4:3
 U 1 1 5DB0DAC9
 P 3500 5050
+AR Path="/5DB0DAC9" Ref="K4:3"  Part="1" 
+AR Path="/5DAEEFD2/5DB0DAC9" Ref="K4:3"  Part="1" 
 F 0 "K4:3" H 3500 5050 60  0000 C CNN
 F 1 "KEYSW" H 3500 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 3500 5050 60  0001 C CNN
@@ -408,9 +438,11 @@ Connection ~ 3800 3550
 Wire Wire Line
 	3800 3550 3800 3050
 $Comp
-L keyboard_parts:KEYSW K0:4
+L AODox-rescue:KEYSW-keyboard_parts K0:4
 U 1 1 5DB1B03B
 P 4200 3050
+AR Path="/5DB1B03B" Ref="K0:4"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B03B" Ref="K0:4"  Part="1" 
 F 0 "K0:4" H 4200 3050 60  0000 C CNN
 F 1 "KEYSW" H 4200 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4200 3050 60  0001 C CNN
@@ -432,9 +464,11 @@ $EndComp
 Wire Wire Line
 	3900 3150 3900 3050
 $Comp
-L keyboard_parts:KEYSW K1:4
+L AODox-rescue:KEYSW-keyboard_parts K1:4
 U 1 1 5DB1B050
 P 4200 3550
+AR Path="/5DB1B050" Ref="K1:4"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B050" Ref="K1:4"  Part="1" 
 F 0 "K1:4" H 4200 3550 60  0000 C CNN
 F 1 "KEYSW" H 4200 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4200 3550 60  0001 C CNN
@@ -456,9 +490,11 @@ $EndComp
 Wire Wire Line
 	3900 3650 3900 3550
 $Comp
-L keyboard_parts:KEYSW K2:4
+L AODox-rescue:KEYSW-keyboard_parts K2:4
 U 1 1 5DB1B065
 P 4200 4050
+AR Path="/5DB1B065" Ref="K2:4"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B065" Ref="K2:4"  Part="1" 
 F 0 "K2:4" H 4200 4050 60  0000 C CNN
 F 1 "KEYSW" H 4200 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4200 4050 60  0001 C CNN
@@ -480,9 +516,11 @@ $EndComp
 Wire Wire Line
 	3900 4150 3900 4050
 $Comp
-L keyboard_parts:KEYSW K3:4
+L AODox-rescue:KEYSW-keyboard_parts K3:4
 U 1 1 5DB1B07A
 P 4200 4550
+AR Path="/5DB1B07A" Ref="K3:4"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B07A" Ref="K3:4"  Part="1" 
 F 0 "K3:4" H 4200 4550 60  0000 C CNN
 F 1 "KEYSW" H 4200 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4200 4550 60  0001 C CNN
@@ -504,9 +542,11 @@ $EndComp
 Wire Wire Line
 	3900 4650 3900 4550
 $Comp
-L keyboard_parts:KEYSW K4:4
+L AODox-rescue:KEYSW-keyboard_parts K4:4
 U 1 1 5DB1B08F
 P 4200 5050
+AR Path="/5DB1B08F" Ref="K4:4"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B08F" Ref="K4:4"  Part="1" 
 F 0 "K4:4" H 4200 5050 60  0000 C CNN
 F 1 "KEYSW" H 4200 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4200 5050 60  0001 C CNN
@@ -539,9 +579,11 @@ Connection ~ 4500 3550
 Wire Wire Line
 	4500 3550 4500 3050
 $Comp
-L keyboard_parts:KEYSW K0:5
+L AODox-rescue:KEYSW-keyboard_parts K0:5
 U 1 1 5DB1B0AB
 P 4900 3050
+AR Path="/5DB1B0AB" Ref="K0:5"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B0AB" Ref="K0:5"  Part="1" 
 F 0 "K0:5" H 4900 3050 60  0000 C CNN
 F 1 "KEYSW" H 4900 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4900 3050 60  0001 C CNN
@@ -563,9 +605,11 @@ $EndComp
 Wire Wire Line
 	4600 3150 4600 3050
 $Comp
-L keyboard_parts:KEYSW K1:5
+L AODox-rescue:KEYSW-keyboard_parts K1:5
 U 1 1 5DB1B0C0
 P 4900 3550
+AR Path="/5DB1B0C0" Ref="K1:5"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B0C0" Ref="K1:5"  Part="1" 
 F 0 "K1:5" H 4900 3550 60  0000 C CNN
 F 1 "KEYSW" H 4900 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4900 3550 60  0001 C CNN
@@ -587,9 +631,11 @@ $EndComp
 Wire Wire Line
 	4600 3650 4600 3550
 $Comp
-L keyboard_parts:KEYSW K2:5
+L AODox-rescue:KEYSW-keyboard_parts K2:5
 U 1 1 5DB1B0D5
 P 4900 4050
+AR Path="/5DB1B0D5" Ref="K2:5"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B0D5" Ref="K2:5"  Part="1" 
 F 0 "K2:5" H 4900 4050 60  0000 C CNN
 F 1 "KEYSW" H 4900 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4900 4050 60  0001 C CNN
@@ -611,9 +657,11 @@ $EndComp
 Wire Wire Line
 	4600 4150 4600 4050
 $Comp
-L keyboard_parts:KEYSW K3:5
+L AODox-rescue:KEYSW-keyboard_parts K3:5
 U 1 1 5DB1B0EA
 P 4900 4550
+AR Path="/5DB1B0EA" Ref="K3:5"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B0EA" Ref="K3:5"  Part="1" 
 F 0 "K3:5" H 4900 4550 60  0000 C CNN
 F 1 "KEYSW" H 4900 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4900 4550 60  0001 C CNN
@@ -635,9 +683,11 @@ $EndComp
 Wire Wire Line
 	4600 4650 4600 4550
 $Comp
-L keyboard_parts:KEYSW K4:5
+L AODox-rescue:KEYSW-keyboard_parts K4:5
 U 1 1 5DB1B0FF
 P 4900 5050
+AR Path="/5DB1B0FF" Ref="K4:5"  Part="1" 
+AR Path="/5DAEEFD2/5DB1B0FF" Ref="K4:5"  Part="1" 
 F 0 "K4:5" H 4900 5050 60  0000 C CNN
 F 1 "KEYSW" H 4900 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 4900 5050 60  0001 C CNN
@@ -670,9 +720,11 @@ Connection ~ 5200 3550
 Wire Wire Line
 	5200 3550 5200 3050
 $Comp
-L keyboard_parts:KEYSW K0:6
+L AODox-rescue:KEYSW-keyboard_parts K0:6
 U 1 1 5DB47D87
 P 5600 3050
+AR Path="/5DB47D87" Ref="K0:6"  Part="1" 
+AR Path="/5DAEEFD2/5DB47D87" Ref="K0:6"  Part="1" 
 F 0 "K0:6" H 5600 3050 60  0000 C CNN
 F 1 "KEYSW" H 5600 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 5600 3050 60  0001 C CNN
@@ -694,9 +746,11 @@ $EndComp
 Wire Wire Line
 	5300 3150 5300 3050
 $Comp
-L keyboard_parts:KEYSW K1:6
+L AODox-rescue:KEYSW-keyboard_parts K1:6
 U 1 1 5DB47D9C
 P 5600 3550
+AR Path="/5DB47D9C" Ref="K1:6"  Part="1" 
+AR Path="/5DAEEFD2/5DB47D9C" Ref="K1:6"  Part="1" 
 F 0 "K1:6" H 5600 3550 60  0000 C CNN
 F 1 "KEYSW" H 5600 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 5600 3550 60  0001 C CNN
@@ -718,9 +772,11 @@ $EndComp
 Wire Wire Line
 	5300 3650 5300 3550
 $Comp
-L keyboard_parts:KEYSW K2:6
+L AODox-rescue:KEYSW-keyboard_parts K2:6
 U 1 1 5DB47DB1
 P 5600 4050
+AR Path="/5DB47DB1" Ref="K2:6"  Part="1" 
+AR Path="/5DAEEFD2/5DB47DB1" Ref="K2:6"  Part="1" 
 F 0 "K2:6" H 5600 4050 60  0000 C CNN
 F 1 "KEYSW" H 5600 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 5600 4050 60  0001 C CNN
@@ -742,9 +798,11 @@ $EndComp
 Wire Wire Line
 	5300 4150 5300 4050
 $Comp
-L keyboard_parts:KEYSW K4:6
+L AODox-rescue:KEYSW-keyboard_parts K4:6
 U 1 1 5DB47DC6
 P 5600 5050
+AR Path="/5DB47DC6" Ref="K4:6"  Part="1" 
+AR Path="/5DAEEFD2/5DB47DC6" Ref="K4:6"  Part="1" 
 F 0 "K4:6" H 5600 5050 60  0000 C CNN
 F 1 "KEYSW" H 5600 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 5600 5050 60  0001 C CNN
@@ -771,9 +829,11 @@ Connection ~ 5900 3550
 Wire Wire Line
 	5900 3550 5900 3050
 $Comp
-L keyboard_parts:KEYSW K4:7
+L AODox-rescue:KEYSW-keyboard_parts K4:7
 U 1 1 5DB4F1C9
 P 6300 5050
+AR Path="/5DB4F1C9" Ref="K4:7"  Part="1" 
+AR Path="/5DAEEFD2/5DB4F1C9" Ref="K4:7"  Part="1" 
 F 0 "K4:7" H 6300 5050 60  0000 C CNN
 F 1 "KEYSW" H 6300 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 6300 5050 60  0001 C CNN
@@ -795,9 +855,11 @@ $EndComp
 Wire Wire Line
 	6000 5150 6000 5050
 $Comp
-L keyboard_parts:KEYSW K3:7
+L AODox-rescue:KEYSW-keyboard_parts K3:7
 U 1 1 5DB52AB6
 P 6300 4550
+AR Path="/5DB52AB6" Ref="K3:7"  Part="1" 
+AR Path="/5DAEEFD2/5DB52AB6" Ref="K3:7"  Part="1" 
 F 0 "K3:7" H 6300 4550 60  0000 C CNN
 F 1 "KEYSW" H 6300 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 6300 4550 60  0001 C CNN
@@ -843,9 +905,11 @@ F 3 "~" V 1100 5250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K4:0
+L AODox-rescue:KEYSW-keyboard_parts K4:0
 U 1 1 5DAF9883
 P 1400 5050
+AR Path="/5DAF9883" Ref="K4:0"  Part="1" 
+AR Path="/5DAEEFD2/5DAF9883" Ref="K4:0"  Part="1" 
 F 0 "K4:0" H 1400 5050 60  0000 C CNN
 F 1 "KEYSW" H 1400 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 1400 5050 60  0001 C CNN
@@ -867,9 +931,11 @@ F 3 "~" V 1100 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K3:0
+L AODox-rescue:KEYSW-keyboard_parts K3:0
 U 1 1 5DAF80A8
 P 1400 4550
+AR Path="/5DAF80A8" Ref="K3:0"  Part="1" 
+AR Path="/5DAEEFD2/5DAF80A8" Ref="K3:0"  Part="1" 
 F 0 "K3:0" H 1400 4550 60  0000 C CNN
 F 1 "KEYSW" H 1400 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 1400 4550 60  0001 C CNN
@@ -891,9 +957,11 @@ F 3 "~" V 1100 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2:0
+L AODox-rescue:KEYSW-keyboard_parts K2:0
 U 1 1 5DAF8093
 P 1400 4050
+AR Path="/5DAF8093" Ref="K2:0"  Part="1" 
+AR Path="/5DAEEFD2/5DAF8093" Ref="K2:0"  Part="1" 
 F 0 "K2:0" H 1400 4050 60  0000 C CNN
 F 1 "KEYSW" H 1400 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 1400 4050 60  0001 C CNN
@@ -915,9 +983,11 @@ F 3 "~" V 1100 3750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1:0
+L AODox-rescue:KEYSW-keyboard_parts K1:0
 U 1 1 5DAF5851
 P 1400 3550
+AR Path="/5DAF5851" Ref="K1:0"  Part="1" 
+AR Path="/5DAEEFD2/5DAF5851" Ref="K1:0"  Part="1" 
 F 0 "K1:0" H 1400 3550 60  0000 C CNN
 F 1 "KEYSW" H 1400 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 1400 3550 60  0001 C CNN
@@ -939,9 +1009,11 @@ F 3 "~" V 1100 3250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K0:0
+L AODox-rescue:KEYSW-keyboard_parts K0:0
 U 1 1 5DAEFA09
 P 1400 3050
+AR Path="/5DAEFA09" Ref="K0:0"  Part="1" 
+AR Path="/5DAEEFD2/5DAEFA09" Ref="K0:0"  Part="1" 
 F 0 "K0:0" H 1400 3050 60  0000 C CNN
 F 1 "KEYSW" H 1400 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 1400 3050 60  0001 C CNN
@@ -955,9 +1027,11 @@ Wire Wire Line
 	5900 5050 5900 4050
 Connection ~ 5900 4050
 $Comp
-L keyboard_parts:KEYSW K1:8
+L AODox-rescue:KEYSW-keyboard_parts K1:8
 U 1 1 5DB799BC
 P 7250 3550
+AR Path="/5DB799BC" Ref="K1:8"  Part="1" 
+AR Path="/5DAEEFD2/5DB799BC" Ref="K1:8"  Part="1" 
 F 0 "K1:8" H 7250 3550 60  0000 C CNN
 F 1 "KEYSW" H 7250 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 7250 3550 60  0001 C CNN
@@ -979,9 +1053,11 @@ $EndComp
 Wire Wire Line
 	6950 3650 6950 3550
 $Comp
-L keyboard_parts:KEYSW K2:8
+L AODox-rescue:KEYSW-keyboard_parts K2:8
 U 1 1 5DB799D1
 P 7250 4050
+AR Path="/5DB799D1" Ref="K2:8"  Part="1" 
+AR Path="/5DAEEFD2/5DB799D1" Ref="K2:8"  Part="1" 
 F 0 "K2:8" H 7250 4050 60  0000 C CNN
 F 1 "KEYSW" H 7250 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 7250 4050 60  0001 C CNN
@@ -1006,9 +1082,11 @@ Wire Wire Line
 	7550 4050 7550 3550
 Connection ~ 7550 3550
 $Comp
-L keyboard_parts:KEYSW K4:9
+L AODox-rescue:KEYSW-keyboard_parts K4:9
 U 1 1 5DB833A3
 P 8200 5050
+AR Path="/5DB833A3" Ref="K4:9"  Part="1" 
+AR Path="/5DAEEFD2/5DB833A3" Ref="K4:9"  Part="1" 
 F 0 "K4:9" H 8200 5050 60  0000 C CNN
 F 1 "KEYSW" H 8200 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8200 5050 60  0001 C CNN
@@ -1030,9 +1108,11 @@ $EndComp
 Wire Wire Line
 	7900 5150 7900 5050
 $Comp
-L keyboard_parts:KEYSW K3:9
+L AODox-rescue:KEYSW-keyboard_parts K3:9
 U 1 1 5DB833B8
 P 8200 4550
+AR Path="/5DB833B8" Ref="K3:9"  Part="1" 
+AR Path="/5DAEEFD2/5DB833B8" Ref="K3:9"  Part="1" 
 F 0 "K3:9" H 8200 4550 60  0000 C CNN
 F 1 "KEYSW" H 8200 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8200 4550 60  0001 C CNN
@@ -1056,9 +1136,11 @@ Wire Wire Line
 Wire Wire Line
 	8500 5050 8500 4550
 $Comp
-L keyboard_parts:KEYSW K0:10
+L AODox-rescue:KEYSW-keyboard_parts K0:10
 U 1 1 5DB87D68
 P 8900 3050
+AR Path="/5DB87D68" Ref="K0:10"  Part="1" 
+AR Path="/5DAEEFD2/5DB87D68" Ref="K0:10"  Part="1" 
 F 0 "K0:10" H 8900 3050 60  0000 C CNN
 F 1 "KEYSW" H 8900 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8900 3050 60  0001 C CNN
@@ -1080,9 +1162,11 @@ $EndComp
 Wire Wire Line
 	8600 3150 8600 3050
 $Comp
-L keyboard_parts:KEYSW K1:10
+L AODox-rescue:KEYSW-keyboard_parts K1:10
 U 1 1 5DB87D7D
 P 8900 3550
+AR Path="/5DB87D7D" Ref="K1:10"  Part="1" 
+AR Path="/5DAEEFD2/5DB87D7D" Ref="K1:10"  Part="1" 
 F 0 "K1:10" H 8900 3550 60  0000 C CNN
 F 1 "KEYSW" H 8900 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8900 3550 60  0001 C CNN
@@ -1104,9 +1188,11 @@ $EndComp
 Wire Wire Line
 	8600 3650 8600 3550
 $Comp
-L keyboard_parts:KEYSW K2:10
+L AODox-rescue:KEYSW-keyboard_parts K2:10
 U 1 1 5DB87D92
 P 8900 4050
+AR Path="/5DB87D92" Ref="K2:10"  Part="1" 
+AR Path="/5DAEEFD2/5DB87D92" Ref="K2:10"  Part="1" 
 F 0 "K2:10" H 8900 4050 60  0000 C CNN
 F 1 "KEYSW" H 8900 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8900 4050 60  0001 C CNN
@@ -1128,9 +1214,11 @@ $EndComp
 Wire Wire Line
 	8600 4150 8600 4050
 $Comp
-L keyboard_parts:KEYSW K4:10
+L AODox-rescue:KEYSW-keyboard_parts K4:10
 U 1 1 5DB87DA7
 P 8900 5050
+AR Path="/5DB87DA7" Ref="K4:10"  Part="1" 
+AR Path="/5DAEEFD2/5DB87DA7" Ref="K4:10"  Part="1" 
 F 0 "K4:10" H 8900 5050 60  0000 C CNN
 F 1 "KEYSW" H 8900 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 8900 5050 60  0001 C CNN
@@ -1160,9 +1248,11 @@ Wire Wire Line
 	9200 5050 9200 4050
 Connection ~ 9200 4050
 $Comp
-L keyboard_parts:KEYSW K0:12
+L AODox-rescue:KEYSW-keyboard_parts K0:12
 U 1 1 5DB8E6D8
 P 10300 3050
+AR Path="/5DB8E6D8" Ref="K0:12"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E6D8" Ref="K0:12"  Part="1" 
 F 0 "K0:12" H 10300 3050 60  0000 C CNN
 F 1 "KEYSW" H 10300 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 10300 3050 60  0001 C CNN
@@ -1184,9 +1274,11 @@ $EndComp
 Wire Wire Line
 	10000 3150 10000 3050
 $Comp
-L keyboard_parts:KEYSW K1:12
+L AODox-rescue:KEYSW-keyboard_parts K1:12
 U 1 1 5DB8E6ED
 P 10300 3550
+AR Path="/5DB8E6ED" Ref="K1:12"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E6ED" Ref="K1:12"  Part="1" 
 F 0 "K1:12" H 10300 3550 60  0000 C CNN
 F 1 "KEYSW" H 10300 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 10300 3550 60  0001 C CNN
@@ -1208,9 +1300,11 @@ $EndComp
 Wire Wire Line
 	10000 3650 10000 3550
 $Comp
-L keyboard_parts:KEYSW K2:12
+L AODox-rescue:KEYSW-keyboard_parts K2:12
 U 1 1 5DB8E702
 P 10300 4050
+AR Path="/5DB8E702" Ref="K2:12"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E702" Ref="K2:12"  Part="1" 
 F 0 "K2:12" H 10300 4050 60  0000 C CNN
 F 1 "KEYSW" H 10300 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 10300 4050 60  0001 C CNN
@@ -1232,9 +1326,11 @@ $EndComp
 Wire Wire Line
 	10000 4150 10000 4050
 $Comp
-L keyboard_parts:KEYSW K3:12
+L AODox-rescue:KEYSW-keyboard_parts K3:12
 U 1 1 5DB8E717
 P 10300 4550
+AR Path="/5DB8E717" Ref="K3:12"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E717" Ref="K3:12"  Part="1" 
 F 0 "K3:12" H 10300 4550 60  0000 C CNN
 F 1 "KEYSW" H 10300 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 10300 4550 60  0001 C CNN
@@ -1256,9 +1352,11 @@ $EndComp
 Wire Wire Line
 	10000 4650 10000 4550
 $Comp
-L keyboard_parts:KEYSW K4:12
+L AODox-rescue:KEYSW-keyboard_parts K4:12
 U 1 1 5DB8E72C
 P 10300 5050
+AR Path="/5DB8E72C" Ref="K4:12"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E72C" Ref="K4:12"  Part="1" 
 F 0 "K4:12" H 10300 5050 60  0000 C CNN
 F 1 "KEYSW" H 10300 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 10300 5050 60  0001 C CNN
@@ -1291,9 +1389,11 @@ Connection ~ 10600 3550
 Wire Wire Line
 	10600 3550 10600 3050
 $Comp
-L keyboard_parts:KEYSW K0:13
+L AODox-rescue:KEYSW-keyboard_parts K0:13
 U 1 1 5DB8E748
 P 11000 3050
+AR Path="/5DB8E748" Ref="K0:13"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E748" Ref="K0:13"  Part="1" 
 F 0 "K0:13" H 11000 3050 60  0000 C CNN
 F 1 "KEYSW" H 11000 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11000 3050 60  0001 C CNN
@@ -1315,9 +1415,11 @@ $EndComp
 Wire Wire Line
 	10700 3150 10700 3050
 $Comp
-L keyboard_parts:KEYSW K1:13
+L AODox-rescue:KEYSW-keyboard_parts K1:13
 U 1 1 5DB8E75D
 P 11000 3550
+AR Path="/5DB8E75D" Ref="K1:13"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E75D" Ref="K1:13"  Part="1" 
 F 0 "K1:13" H 11000 3550 60  0000 C CNN
 F 1 "KEYSW" H 11000 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11000 3550 60  0001 C CNN
@@ -1339,9 +1441,11 @@ $EndComp
 Wire Wire Line
 	10700 3650 10700 3550
 $Comp
-L keyboard_parts:KEYSW K2:13
+L AODox-rescue:KEYSW-keyboard_parts K2:13
 U 1 1 5DB8E772
 P 11000 4050
+AR Path="/5DB8E772" Ref="K2:13"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E772" Ref="K2:13"  Part="1" 
 F 0 "K2:13" H 11000 4050 60  0000 C CNN
 F 1 "KEYSW" H 11000 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11000 4050 60  0001 C CNN
@@ -1363,9 +1467,11 @@ $EndComp
 Wire Wire Line
 	10700 4150 10700 4050
 $Comp
-L keyboard_parts:KEYSW K3:13
+L AODox-rescue:KEYSW-keyboard_parts K3:13
 U 1 1 5DB8E787
 P 11000 4550
+AR Path="/5DB8E787" Ref="K3:13"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E787" Ref="K3:13"  Part="1" 
 F 0 "K3:13" H 11000 4550 60  0000 C CNN
 F 1 "KEYSW" H 11000 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11000 4550 60  0001 C CNN
@@ -1387,9 +1493,11 @@ $EndComp
 Wire Wire Line
 	10700 4650 10700 4550
 $Comp
-L keyboard_parts:KEYSW K4:13
+L AODox-rescue:KEYSW-keyboard_parts K4:13
 U 1 1 5DB8E79C
 P 11000 5050
+AR Path="/5DB8E79C" Ref="K4:13"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E79C" Ref="K4:13"  Part="1" 
 F 0 "K4:13" H 11000 5050 60  0000 C CNN
 F 1 "KEYSW" H 11000 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11000 5050 60  0001 C CNN
@@ -1422,9 +1530,11 @@ Connection ~ 11300 3550
 Wire Wire Line
 	11300 3550 11300 3050
 $Comp
-L keyboard_parts:KEYSW K0:14
+L AODox-rescue:KEYSW-keyboard_parts K0:14
 U 1 1 5DB8E7B8
 P 11700 3050
+AR Path="/5DB8E7B8" Ref="K0:14"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E7B8" Ref="K0:14"  Part="1" 
 F 0 "K0:14" H 11700 3050 60  0000 C CNN
 F 1 "KEYSW" H 11700 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11700 3050 60  0001 C CNN
@@ -1446,9 +1556,11 @@ $EndComp
 Wire Wire Line
 	11400 3150 11400 3050
 $Comp
-L keyboard_parts:KEYSW K1:14
+L AODox-rescue:KEYSW-keyboard_parts K1:14
 U 1 1 5DB8E7CD
 P 11700 3550
+AR Path="/5DB8E7CD" Ref="K1:14"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E7CD" Ref="K1:14"  Part="1" 
 F 0 "K1:14" H 11700 3550 60  0000 C CNN
 F 1 "KEYSW" H 11700 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11700 3550 60  0001 C CNN
@@ -1470,9 +1582,11 @@ $EndComp
 Wire Wire Line
 	11400 3650 11400 3550
 $Comp
-L keyboard_parts:KEYSW K2:14
+L AODox-rescue:KEYSW-keyboard_parts K2:14
 U 1 1 5DB8E7E2
 P 11700 4050
+AR Path="/5DB8E7E2" Ref="K2:14"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E7E2" Ref="K2:14"  Part="1" 
 F 0 "K2:14" H 11700 4050 60  0000 C CNN
 F 1 "KEYSW" H 11700 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11700 4050 60  0001 C CNN
@@ -1494,9 +1608,11 @@ $EndComp
 Wire Wire Line
 	11400 4150 11400 4050
 $Comp
-L keyboard_parts:KEYSW K3:14
+L AODox-rescue:KEYSW-keyboard_parts K3:14
 U 1 1 5DB8E7F7
 P 11700 4550
+AR Path="/5DB8E7F7" Ref="K3:14"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E7F7" Ref="K3:14"  Part="1" 
 F 0 "K3:14" H 11700 4550 60  0000 C CNN
 F 1 "KEYSW" H 11700 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11700 4550 60  0001 C CNN
@@ -1518,9 +1634,11 @@ $EndComp
 Wire Wire Line
 	11400 4650 11400 4550
 $Comp
-L keyboard_parts:KEYSW K4:14
+L AODox-rescue:KEYSW-keyboard_parts K4:14
 U 1 1 5DB8E80C
 P 11700 5050
+AR Path="/5DB8E80C" Ref="K4:14"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E80C" Ref="K4:14"  Part="1" 
 F 0 "K4:14" H 11700 5050 60  0000 C CNN
 F 1 "KEYSW" H 11700 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 11700 5050 60  0001 C CNN
@@ -1553,9 +1671,11 @@ Connection ~ 12000 3550
 Wire Wire Line
 	12000 3550 12000 3050
 $Comp
-L keyboard_parts:KEYSW K0:15
+L AODox-rescue:KEYSW-keyboard_parts K0:15
 U 1 1 5DB8E828
 P 12400 3050
+AR Path="/5DB8E828" Ref="K0:15"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E828" Ref="K0:15"  Part="1" 
 F 0 "K0:15" H 12400 3050 60  0000 C CNN
 F 1 "KEYSW" H 12400 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 12400 3050 60  0001 C CNN
@@ -1577,9 +1697,11 @@ $EndComp
 Wire Wire Line
 	12100 3150 12100 3050
 $Comp
-L keyboard_parts:KEYSW K1:15
+L AODox-rescue:KEYSW-keyboard_parts K1:15
 U 1 1 5DB8E83D
 P 12400 3550
+AR Path="/5DB8E83D" Ref="K1:15"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E83D" Ref="K1:15"  Part="1" 
 F 0 "K1:15" H 12400 3550 60  0000 C CNN
 F 1 "KEYSW" H 12400 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 12400 3550 60  0001 C CNN
@@ -1601,9 +1723,11 @@ $EndComp
 Wire Wire Line
 	12100 3650 12100 3550
 $Comp
-L keyboard_parts:KEYSW K2:15
+L AODox-rescue:KEYSW-keyboard_parts K2:15
 U 1 1 5DB8E852
 P 12400 4050
+AR Path="/5DB8E852" Ref="K2:15"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E852" Ref="K2:15"  Part="1" 
 F 0 "K2:15" H 12400 4050 60  0000 C CNN
 F 1 "KEYSW" H 12400 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 12400 4050 60  0001 C CNN
@@ -1625,9 +1749,11 @@ $EndComp
 Wire Wire Line
 	12100 4150 12100 4050
 $Comp
-L keyboard_parts:KEYSW K3:15
+L AODox-rescue:KEYSW-keyboard_parts K3:15
 U 1 1 5DB8E867
 P 12400 4550
+AR Path="/5DB8E867" Ref="K3:15"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E867" Ref="K3:15"  Part="1" 
 F 0 "K3:15" H 12400 4550 60  0000 C CNN
 F 1 "KEYSW" H 12400 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 12400 4550 60  0001 C CNN
@@ -1649,9 +1775,11 @@ $EndComp
 Wire Wire Line
 	12100 4650 12100 4550
 $Comp
-L keyboard_parts:KEYSW K4:15
+L AODox-rescue:KEYSW-keyboard_parts K4:15
 U 1 1 5DB8E87C
 P 12400 5050
+AR Path="/5DB8E87C" Ref="K4:15"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E87C" Ref="K4:15"  Part="1" 
 F 0 "K4:15" H 12400 5050 60  0000 C CNN
 F 1 "KEYSW" H 12400 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 12400 5050 60  0001 C CNN
@@ -1684,9 +1812,11 @@ Connection ~ 12700 3550
 Wire Wire Line
 	12700 3550 12700 3050
 $Comp
-L keyboard_parts:KEYSW K0:16
+L AODox-rescue:KEYSW-keyboard_parts K0:16
 U 1 1 5DB8E898
 P 13100 3050
+AR Path="/5DB8E898" Ref="K0:16"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E898" Ref="K0:16"  Part="1" 
 F 0 "K0:16" H 13100 3050 60  0000 C CNN
 F 1 "KEYSW" H 13100 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 13100 3050 60  0001 C CNN
@@ -1708,9 +1838,11 @@ $EndComp
 Wire Wire Line
 	12800 3150 12800 3050
 $Comp
-L keyboard_parts:KEYSW K1:16
+L AODox-rescue:KEYSW-keyboard_parts K1:16
 U 1 1 5DB8E8AD
 P 13100 3550
+AR Path="/5DB8E8AD" Ref="K1:16"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E8AD" Ref="K1:16"  Part="1" 
 F 0 "K1:16" H 13100 3550 60  0000 C CNN
 F 1 "KEYSW" H 13100 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 13100 3550 60  0001 C CNN
@@ -1732,9 +1864,11 @@ $EndComp
 Wire Wire Line
 	12800 3650 12800 3550
 $Comp
-L keyboard_parts:KEYSW K2:16
+L AODox-rescue:KEYSW-keyboard_parts K2:16
 U 1 1 5DB8E8C2
 P 13100 4050
+AR Path="/5DB8E8C2" Ref="K2:16"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E8C2" Ref="K2:16"  Part="1" 
 F 0 "K2:16" H 13100 4050 60  0000 C CNN
 F 1 "KEYSW" H 13100 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 13100 4050 60  0001 C CNN
@@ -1756,9 +1890,11 @@ $EndComp
 Wire Wire Line
 	12800 4150 12800 4050
 $Comp
-L keyboard_parts:KEYSW K3:16
+L AODox-rescue:KEYSW-keyboard_parts K3:16
 U 1 1 5DB8E8D7
 P 13100 4550
+AR Path="/5DB8E8D7" Ref="K3:16"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E8D7" Ref="K3:16"  Part="1" 
 F 0 "K3:16" H 13100 4550 60  0000 C CNN
 F 1 "KEYSW" H 13100 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 13100 4550 60  0001 C CNN
@@ -1780,9 +1916,11 @@ $EndComp
 Wire Wire Line
 	12800 4650 12800 4550
 $Comp
-L keyboard_parts:KEYSW K4:16
+L AODox-rescue:KEYSW-keyboard_parts K4:16
 U 1 1 5DB8E8EC
 P 13100 5050
+AR Path="/5DB8E8EC" Ref="K4:16"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E8EC" Ref="K4:16"  Part="1" 
 F 0 "K4:16" H 13100 5050 60  0000 C CNN
 F 1 "KEYSW" H 13100 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 13100 5050 60  0001 C CNN
@@ -1839,9 +1977,11 @@ F 3 "~" V 9300 5250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K4:11
+L AODox-rescue:KEYSW-keyboard_parts K4:11
 U 1 1 5DB8E91A
 P 9600 5050
+AR Path="/5DB8E91A" Ref="K4:11"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E91A" Ref="K4:11"  Part="1" 
 F 0 "K4:11" H 9600 5050 60  0000 C CNN
 F 1 "KEYSW" H 9600 4950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 9600 5050 60  0001 C CNN
@@ -1863,9 +2003,11 @@ F 3 "~" V 9300 4750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K3:11
+L AODox-rescue:KEYSW-keyboard_parts K3:11
 U 1 1 5DB8E92F
 P 9600 4550
+AR Path="/5DB8E92F" Ref="K3:11"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E92F" Ref="K3:11"  Part="1" 
 F 0 "K3:11" H 9600 4550 60  0000 C CNN
 F 1 "KEYSW" H 9600 4450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 9600 4550 60  0001 C CNN
@@ -1887,9 +2029,11 @@ F 3 "~" V 9300 4250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2:11
+L AODox-rescue:KEYSW-keyboard_parts K2:11
 U 1 1 5DB8E944
 P 9600 4050
+AR Path="/5DB8E944" Ref="K2:11"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E944" Ref="K2:11"  Part="1" 
 F 0 "K2:11" H 9600 4050 60  0000 C CNN
 F 1 "KEYSW" H 9600 3950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 9600 4050 60  0001 C CNN
@@ -1911,9 +2055,11 @@ F 3 "~" V 9300 3750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1:11
+L AODox-rescue:KEYSW-keyboard_parts K1:11
 U 1 1 5DB8E959
 P 9600 3550
+AR Path="/5DB8E959" Ref="K1:11"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E959" Ref="K1:11"  Part="1" 
 F 0 "K1:11" H 9600 3550 60  0000 C CNN
 F 1 "KEYSW" H 9600 3450 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 9600 3550 60  0001 C CNN
@@ -1935,9 +2081,11 @@ F 3 "~" V 9300 3250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K0:11
+L AODox-rescue:KEYSW-keyboard_parts K0:11
 U 1 1 5DB8E96E
 P 9600 3050
+AR Path="/5DB8E96E" Ref="K0:11"  Part="1" 
+AR Path="/5DAEEFD2/5DB8E96E" Ref="K0:11"  Part="1" 
 F 0 "K0:11" H 9600 3050 60  0000 C CNN
 F 1 "KEYSW" H 9600 2950 60  0001 C CNN
 F 2 "keyboard_parts_AO:Kailh_socket" H 9600 3050 60  0001 C CNN
