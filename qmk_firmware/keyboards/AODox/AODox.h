@@ -26,6 +26,30 @@
  * The second converts the arguments into a two-dimensional array which
  * represents the switch matrix.
  */
+#define LAYOUT( \
+    k00, k01, k02, k03, k04, k05, k06,\
+    k10, k11, k12, k13, k14, k15, k16,\
+    k20, k21, k22, k23, k24, k25,\
+    k30, k31, k32, k33, k34, k35, k26, k37,\
+    k40, k41, k42, k43, k44, k45, k46, k47,\
+    \
+    k18,\
+    k28,\
+    \
+    k010, k011, k012, k013, k014, k015, k016,\
+    k110, k111, k112, k113, k114, k115, k116,\
+    k211, k212, k213, k214, k215, k216,\
+    k39, k210, k311, k312, k313, k314, k315, k316,\
+    k49, k410, k411, k412, k413, k414, k415, k416\
+) \
+{ \
+    {k00, k01, k02, k03, k04, k05, k06, KC_NO, KC_NO, KC_NO, k010, k011, k012, k013, k014, k015, k016},\
+    {k10, k11, k12, k13, k14, k15, k16, KC_NO, k18, KC_NO, k110, k111, k112, k113, k114, k115, k116},\
+    {k20, k21, k22, k23, k24, k25, k26, KC_NO, k28, KC_NO, k210, k211, k212, k213, k214, k215, k216},\
+    {k30, k31, k32, k33, k34, k35, KC_NO, k37, KC_NO, k39, KC_NO, k311, k312, k313, k314, k315, k316},\
+    {k40, k41, k42, k43, k44, k45, k46, k47, KC_NO, k49, k410, k411, k412, k413, k414, k415, k416},\
+}
+
 #define LAYOUT_flat( \
     k00, k01, k02, k03, k04, k05, k06, k010, k011, k012, k013, k014, k015, k016,\
     k10, k11, k12, k13, k14, k15, k16, k18, k110, k111, k112, k113, k114, k115, k116,\
