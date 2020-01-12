@@ -21,11 +21,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID 0xFEED
-#define PRODUCT_ID 0x4412
+#define PRODUCT_ID 0x6060
 #define DEVICE_VER 0x0001
-#define MANUFACTURER AO.industries
+#define MANUFACTURER AOindustries
 #define PRODUCT AODox
-#define DESCRIPTION ErgoDox-inspired mech optimized for steno.
+#define DESCRIPTION Ergonomic mech optimized for steno
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -81,7 +81,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #endif
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
-#define DEBOUNCE 30
+#define DEBOUNCE 15
+#define TAPPING_TERM 117
 
 /* define if matrix has ghost (lacks anti-ghosting diodes) */
 //#define MATRIX_HAS_GHOST
