@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:AODox-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J2
+L AODox-rescue:USB_C_Receptacle_USB2.0-Connector J2
 U 1 1 5DAE85C1
 P 6300 1600
 F 0 "J2" V 6225 2350 50  0000 L CNN
@@ -26,7 +25,7 @@ F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 6450 16
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:C_Small C7
+L AODox-rescue:C_Small-Device C7
 U 1 1 5DAEF537
 P 4200 4750
 F 0 "C7" H 4225 4825 50  0000 L CNN
@@ -37,7 +36,7 @@ F 3 "~" H 4200 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C6
+L AODox-rescue:C_Small-Device C6
 U 1 1 5DAF087A
 P 3500 4750
 F 0 "C6" H 3525 4825 50  0000 L CNN
@@ -48,7 +47,7 @@ F 3 "~" H 3500 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR04
+L AODox-rescue:GND-power #PWR04
 U 1 1 5DAF2AC6
 P 3850 5000
 F 0 "#PWR04" H 3850 4750 50  0001 C CNN
@@ -59,7 +58,7 @@ F 3 "" H 3850 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C1
+L AODox-rescue:C_Small-Device C1
 U 1 1 5DAF6260
 P 2350 3300
 F 0 "C1" H 2375 3375 50  0000 L CNN
@@ -70,7 +69,7 @@ F 3 "~" H 2350 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C2
+L AODox-rescue:C_Small-Device C2
 U 1 1 5DAF8777
 P 2600 3300
 F 0 "C2" H 2625 3375 50  0000 L CNN
@@ -81,7 +80,7 @@ F 3 "~" H 2600 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C3
+L AODox-rescue:C_Small-Device C3
 U 1 1 5DAF8AF0
 P 2850 3300
 F 0 "C3" H 2875 3375 50  0000 L CNN
@@ -92,7 +91,7 @@ F 3 "~" H 2850 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C4
+L AODox-rescue:C_Small-Device C4
 U 1 1 5DAF8E8B
 P 3100 3300
 F 0 "C4" H 3125 3375 50  0000 L CNN
@@ -103,7 +102,7 @@ F 3 "~" H 3100 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C5
+L AODox-rescue:C_Small-Device C5
 U 1 1 5DAF9226
 P 3350 3300
 F 0 "C5" H 3375 3375 50  0000 L CNN
@@ -114,7 +113,7 @@ F 3 "~" H 3350 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR02
+L AODox-rescue:GND-power #PWR02
 U 1 1 5DAF971E
 P 2350 3600
 F 0 "#PWR02" H 2350 3350 50  0001 C CNN
@@ -160,7 +159,7 @@ Connection ~ 3500 4550
 Wire Wire Line
 	2350 3200 2350 3100
 $Comp
-L power:VCC #PWR01
+L AODox-rescue:VCC-power #PWR01
 U 1 1 5DAFA77E
 P 2350 3000
 F 0 "#PWR01" H 2350 2850 50  0001 C CNN
@@ -211,7 +210,7 @@ Wire Wire Line
 Wire Wire Line
 	3550 4150 3650 4150
 $Comp
-L power:VCC #PWR05
+L AODox-rescue:VCC-power #PWR05
 U 1 1 5DB0B43C
 P 4150 3750
 F 0 "#PWR05" H 4150 3600 50  0001 C CNN
@@ -222,7 +221,7 @@ F 3 "" H 4150 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR03
+L AODox-rescue:GND-power #PWR03
 U 1 1 5DB0AD48
 P 3550 4150
 F 0 "#PWR03" H 3550 3900 50  0001 C CNN
@@ -233,7 +232,7 @@ F 3 "" H 3550 4150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Switch:SW_Push SW1
+L AODox-rescue:SW_Push-Switch SW1
 U 1 1 5DB09B68
 P 3850 4150
 F 0 "SW1" H 3850 4300 50  0000 C CNN
@@ -259,7 +258,7 @@ Wire Wire Line
 	2600 3500 2850 3500
 Connection ~ 4150 4150
 $Comp
-L Device:R_Small R1
+L AODox-rescue:R_Small-Device R1
 U 1 1 5DB0A7CA
 P 4150 3950
 F 0 "R1" H 4209 3996 50  0000 L CNN
@@ -270,7 +269,7 @@ F 3 "~" H 4150 3950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R4
+L AODox-rescue:R_Small-Device R4
 U 1 1 5DB181EB
 P 6500 6050
 F 0 "R4" H 6559 6096 50  0000 L CNN
@@ -281,7 +280,7 @@ F 3 "~" H 6500 6050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR08
+L AODox-rescue:GND-power #PWR08
 U 1 1 5DB19020
 P 6500 6250
 F 0 "#PWR08" H 6500 6000 50  0001 C CNN
@@ -300,7 +299,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 2200 6400 2200
 $Comp
-L power:GND #PWR06
+L AODox-rescue:GND-power #PWR06
 U 1 1 5DB1C0A7
 P 5300 1600
 F 0 "#PWR06" H 5300 1350 50  0001 C CNN
@@ -316,7 +315,7 @@ NoConn ~ 5400 1300
 NoConn ~ 5700 2200
 NoConn ~ 5800 2200
 $Comp
-L Device:R R5
+L AODox-rescue:R-Device R5
 U 1 1 5DB2D6C5
 P 6600 2450
 F 0 "R5" H 6450 2450 50  0000 L CNN
@@ -327,7 +326,7 @@ F 3 "~" H 6600 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R6
+L AODox-rescue:R-Device R6
 U 1 1 5DB2E11A
 P 6700 2450
 F 0 "R6" H 6750 2450 50  0000 L CNN
@@ -338,7 +337,7 @@ F 3 "~" H 6700 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR09
+L AODox-rescue:GND-power #PWR09
 U 1 1 5DB2E530
 P 6650 2700
 F 0 "#PWR09" H 6650 2450 50  0001 C CNN
@@ -364,7 +363,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 2300 6700 2200
 $Comp
-L Device:R R3
+L AODox-rescue:R-Device R3
 U 1 1 5DB32FF9
 P 6200 2700
 F 0 "R3" H 6050 2700 50  0000 L CNN
@@ -379,7 +378,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 2850 6200 3250
 $Comp
-L power:VCC #PWR010
+L AODox-rescue:VCC-power #PWR010
 U 1 1 5DB3945C
 P 7200 2200
 F 0 "#PWR010" H 7200 2050 50  0001 C CNN
@@ -399,7 +398,7 @@ Wire Wire Line
 	6900 3100 6900 2200
 Connection ~ 6900 2200
 $Comp
-L Device:C_Small C8
+L AODox-rescue:C_Small-Device C8
 U 1 1 5DB3C818
 P 6000 2650
 F 0 "C8" H 5900 2725 50  0000 L CNN
@@ -410,7 +409,7 @@ F 3 "~" H 6000 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR07
+L AODox-rescue:GND-power #PWR07
 U 1 1 5DB3D6B5
 P 6000 2400
 F 0 "#PWR07" H 6000 2150 50  0001 C CNN
@@ -441,7 +440,7 @@ GND
 Text Label 6100 3250 1    50   ~ 0
 GND
 $Comp
-L Connector:Conn_01x06_Male J1
+L AODox-rescue:Conn_01x06_Male-Connector J1
 U 1 1 5DB41B5C
 P 4650 2450
 F 0 "J1" V 4725 2075 50  0000 R CNN
@@ -534,7 +533,7 @@ row4
 Text Label 3850 4450 2    50   ~ 0
 GND
 $Comp
-L Device:Crystal_GND24_Small Y1
+L AODox-rescue:Crystal_GND24_Small-Device Y1
 U 1 1 5DB7805D
 P 3850 4550
 F 0 "Y1" H 3994 4596 50  0000 L CNN
@@ -547,7 +546,7 @@ $EndComp
 Wire Wire Line
 	6000 2550 6000 2400
 $Comp
-L power:VCC #PWR0101
+L AODox-rescue:VCC-power #PWR0101
 U 1 1 5DD2E542
 P 5900 3050
 F 0 "#PWR0101" H 5900 2900 50  0001 C CNN
@@ -560,7 +559,7 @@ $EndComp
 Wire Wire Line
 	5900 3250 5900 3050
 $Comp
-L keyboard_parts_AO:Graphic_Logo GRAPHIC_LOGO1
+L AODox-rescue:Graphic_Logo-keyboard_parts_AO GRAPHIC_LOGO1
 U 1 1 5DD2CCD1
 P 9100 3400
 F 0 "GRAPHIC_LOGO1" H 9178 3496 50  0000 L CNN
@@ -571,7 +570,7 @@ F 3 "~" H 9100 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts_AO:Graphic_Logo GRAPHIC_LOGO2
+L AODox-rescue:Graphic_Logo-keyboard_parts_AO GRAPHIC_LOGO2
 U 1 1 5DD2D5B8
 P 9100 3950
 F 0 "GRAPHIC_LOGO2" H 9178 4046 50  0000 L CNN
@@ -582,7 +581,7 @@ F 3 "~" H 9100 3950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R2
+L AODox-rescue:R-Device R2
 U 1 1 5DB31C0A
 P 6300 2700
 F 0 "R2" H 6340 2700 50  0000 L CNN

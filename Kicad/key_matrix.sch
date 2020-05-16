@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:AODox-cache
 EELAYER 30 0
 EELAYER END
 $Descr USLegal 14000 8500
@@ -28,7 +27,7 @@ F 3 "" H 2100 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:1
+L AODox-rescue:D_Small_ALT-Device D0:1
 U 1 1 5DAFB582
 P 1800 3250
 F 0 "D0:1" V 1800 3200 50  0000 R CNN
@@ -54,7 +53,7 @@ F 3 "" H 2100 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:1
+L AODox-rescue:D_Small_ALT-Device D1:1
 U 1 1 5DAFB597
 P 1800 3750
 F 0 "D1:1" V 1800 3700 50  0000 R CNN
@@ -80,7 +79,7 @@ F 3 "" H 2100 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:1
+L AODox-rescue:D_Small_ALT-Device D2:1
 U 1 1 5DAFB5AC
 P 1800 4250
 F 0 "D2:1" V 1800 4200 50  0000 R CNN
@@ -106,7 +105,7 @@ F 3 "" H 2100 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:1
+L AODox-rescue:D_Small_ALT-Device D3:1
 U 1 1 5DAFB5C1
 P 1800 4750
 F 0 "D3:1" V 1800 4700 50  0000 R CNN
@@ -132,7 +131,7 @@ F 3 "" H 2100 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:1
+L AODox-rescue:D_Small_ALT-Device D4:1
 U 1 1 5DAFB5D6
 P 1800 5250
 F 0 "D4:1" V 1800 5200 50  0000 R CNN
@@ -169,7 +168,7 @@ F 3 "" H 2800 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:2
+L AODox-rescue:D_Small_ALT-Device D0:2
 U 1 1 5DB0DA0F
 P 2500 3250
 F 0 "D0:2" V 2500 3200 50  0000 R CNN
@@ -195,7 +194,7 @@ F 3 "" H 2800 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:2
+L AODox-rescue:D_Small_ALT-Device D1:2
 U 1 1 5DB0DA24
 P 2500 3750
 F 0 "D1:2" V 2500 3700 50  0000 R CNN
@@ -221,7 +220,7 @@ F 3 "" H 2800 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:2
+L AODox-rescue:D_Small_ALT-Device D2:2
 U 1 1 5DB0DA39
 P 2500 4250
 F 0 "D2:2" V 2500 4200 50  0000 R CNN
@@ -247,7 +246,7 @@ F 3 "" H 2800 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:2
+L AODox-rescue:D_Small_ALT-Device D3:2
 U 1 1 5DB0DA4E
 P 2500 4750
 F 0 "D3:2" V 2500 4700 50  0000 R CNN
@@ -273,7 +272,7 @@ F 3 "" H 2800 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:2
+L AODox-rescue:D_Small_ALT-Device D4:2
 U 1 1 5DB0DA63
 P 2500 5250
 F 0 "D4:2" V 2500 5200 50  0000 R CNN
@@ -310,7 +309,7 @@ F 3 "" H 3500 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:3
+L AODox-rescue:D_Small_ALT-Device D0:3
 U 1 1 5DB0DA7F
 P 3200 3250
 F 0 "D0:3" V 3200 3200 50  0000 R CNN
@@ -336,7 +335,7 @@ F 3 "" H 3500 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:3
+L AODox-rescue:D_Small_ALT-Device D1:3
 U 1 1 5DB0DA94
 P 3200 3750
 F 0 "D1:3" V 3200 3700 50  0000 R CNN
@@ -362,7 +361,7 @@ F 3 "" H 3500 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:3
+L AODox-rescue:D_Small_ALT-Device D2:3
 U 1 1 5DB0DAA9
 P 3200 4250
 F 0 "D2:3" V 3200 4200 50  0000 R CNN
@@ -388,7 +387,7 @@ F 3 "" H 3500 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:3
+L AODox-rescue:D_Small_ALT-Device D3:3
 U 1 1 5DB0DABE
 P 3200 4750
 F 0 "D3:3" V 3200 4700 50  0000 R CNN
@@ -414,7 +413,7 @@ F 3 "" H 3500 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:3
+L AODox-rescue:D_Small_ALT-Device D4:3
 U 1 1 5DB0DAD3
 P 3200 5250
 F 0 "D4:3" V 3200 5200 50  0000 R CNN
@@ -451,7 +450,7 @@ F 3 "" H 4200 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:4
+L AODox-rescue:D_Small_ALT-Device D0:4
 U 1 1 5DB1B045
 P 3900 3250
 F 0 "D0:4" V 3900 3200 50  0000 R CNN
@@ -477,7 +476,7 @@ F 3 "" H 4200 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:4
+L AODox-rescue:D_Small_ALT-Device D1:4
 U 1 1 5DB1B05A
 P 3900 3750
 F 0 "D1:4" V 3900 3700 50  0000 R CNN
@@ -503,7 +502,7 @@ F 3 "" H 4200 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:4
+L AODox-rescue:D_Small_ALT-Device D2:4
 U 1 1 5DB1B06F
 P 3900 4250
 F 0 "D2:4" V 3900 4200 50  0000 R CNN
@@ -529,7 +528,7 @@ F 3 "" H 4200 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:4
+L AODox-rescue:D_Small_ALT-Device D3:4
 U 1 1 5DB1B084
 P 3900 4750
 F 0 "D3:4" V 3900 4700 50  0000 R CNN
@@ -555,7 +554,7 @@ F 3 "" H 4200 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:4
+L AODox-rescue:D_Small_ALT-Device D4:4
 U 1 1 5DB1B099
 P 3900 5250
 F 0 "D4:4" V 3900 5200 50  0000 R CNN
@@ -592,7 +591,7 @@ F 3 "" H 4900 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:5
+L AODox-rescue:D_Small_ALT-Device D0:5
 U 1 1 5DB1B0B5
 P 4600 3250
 F 0 "D0:5" V 4600 3200 50  0000 R CNN
@@ -618,7 +617,7 @@ F 3 "" H 4900 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:5
+L AODox-rescue:D_Small_ALT-Device D1:5
 U 1 1 5DB1B0CA
 P 4600 3750
 F 0 "D1:5" V 4600 3700 50  0000 R CNN
@@ -644,7 +643,7 @@ F 3 "" H 4900 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:5
+L AODox-rescue:D_Small_ALT-Device D2:5
 U 1 1 5DB1B0DF
 P 4600 4250
 F 0 "D2:5" V 4600 4200 50  0000 R CNN
@@ -670,7 +669,7 @@ F 3 "" H 4900 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:5
+L AODox-rescue:D_Small_ALT-Device D3:5
 U 1 1 5DB1B0F4
 P 4600 4750
 F 0 "D3:5" V 4600 4700 50  0000 R CNN
@@ -696,7 +695,7 @@ F 3 "" H 4900 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:5
+L AODox-rescue:D_Small_ALT-Device D4:5
 U 1 1 5DB1B109
 P 4600 5250
 F 0 "D4:5" V 4600 5200 50  0000 R CNN
@@ -733,7 +732,7 @@ F 3 "" H 5600 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:6
+L AODox-rescue:D_Small_ALT-Device D0:6
 U 1 1 5DB47D91
 P 5300 3250
 F 0 "D0:6" V 5300 3200 50  0000 R CNN
@@ -759,7 +758,7 @@ F 3 "" H 5600 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:6
+L AODox-rescue:D_Small_ALT-Device D1:6
 U 1 1 5DB47DA6
 P 5300 3750
 F 0 "D1:6" V 5300 3700 50  0000 R CNN
@@ -785,7 +784,7 @@ F 3 "" H 5600 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:6
+L AODox-rescue:D_Small_ALT-Device D2:6
 U 1 1 5DB47DBB
 P 5300 4250
 F 0 "D2:6" V 5300 4200 50  0000 R CNN
@@ -811,7 +810,7 @@ F 3 "" H 5600 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:6
+L AODox-rescue:D_Small_ALT-Device D4:6
 U 1 1 5DB47DD0
 P 5300 5250
 F 0 "D4:6" V 5300 5200 50  0000 R CNN
@@ -842,7 +841,7 @@ F 3 "" H 6300 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:7
+L AODox-rescue:D_Small_ALT-Device D4:7
 U 1 1 5DB4F1D3
 P 6000 5250
 F 0 "D4:7" V 6000 5200 50  0000 R CNN
@@ -868,7 +867,7 @@ F 3 "" H 6300 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:7
+L AODox-rescue:D_Small_ALT-Device D3:7
 U 1 1 5DB52AC0
 P 6000 4750
 F 0 "D3:7" V 6000 4700 50  0000 R CNN
@@ -894,7 +893,7 @@ Wire Wire Line
 Wire Wire Line
 	1100 5150 1100 5050
 $Comp
-L Device:D_Small_ALT D4:0
+L AODox-rescue:D_Small_ALT-Device D4:0
 U 1 1 5DAF988D
 P 1100 5250
 F 0 "D4:0" V 1100 5200 50  0000 R CNN
@@ -920,7 +919,7 @@ $EndComp
 Wire Wire Line
 	1100 4650 1100 4550
 $Comp
-L Device:D_Small_ALT D3:0
+L AODox-rescue:D_Small_ALT-Device D3:0
 U 1 1 5DAF80B2
 P 1100 4750
 F 0 "D3:0" V 1100 4700 50  0000 R CNN
@@ -946,7 +945,7 @@ $EndComp
 Wire Wire Line
 	1100 4150 1100 4050
 $Comp
-L Device:D_Small_ALT D2:0
+L AODox-rescue:D_Small_ALT-Device D2:0
 U 1 1 5DAF809D
 P 1100 4250
 F 0 "D2:0" V 1100 4200 50  0000 R CNN
@@ -972,7 +971,7 @@ $EndComp
 Wire Wire Line
 	1100 3650 1100 3550
 $Comp
-L Device:D_Small_ALT D1:0
+L AODox-rescue:D_Small_ALT-Device D1:0
 U 1 1 5DAF585B
 P 1100 3750
 F 0 "D1:0" V 1100 3700 50  0000 R CNN
@@ -998,7 +997,7 @@ $EndComp
 Wire Wire Line
 	1100 3150 1100 3050
 $Comp
-L Device:D_Small_ALT D0:0
+L AODox-rescue:D_Small_ALT-Device D0:0
 U 1 1 5DAF210D
 P 1100 3250
 F 0 "D0:0" V 1100 3200 50  0000 R CNN
@@ -1040,7 +1039,7 @@ F 3 "" H 7250 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:8
+L AODox-rescue:D_Small_ALT-Device D1:8
 U 1 1 5DB799C6
 P 6950 3750
 F 0 "D1:8" V 6950 3700 50  0000 R CNN
@@ -1066,7 +1065,7 @@ F 3 "" H 7250 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:8
+L AODox-rescue:D_Small_ALT-Device D2:8
 U 1 1 5DB799DB
 P 6950 4250
 F 0 "D2:8" V 6950 4200 50  0000 R CNN
@@ -1095,7 +1094,7 @@ F 3 "" H 8200 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:9
+L AODox-rescue:D_Small_ALT-Device D4:9
 U 1 1 5DB833AD
 P 7900 5250
 F 0 "D4:9" V 7900 5200 50  0000 R CNN
@@ -1121,7 +1120,7 @@ F 3 "" H 8200 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:9
+L AODox-rescue:D_Small_ALT-Device D3:9
 U 1 1 5DB833C2
 P 7900 4750
 F 0 "D3:9" V 7900 4700 50  0000 R CNN
@@ -1149,7 +1148,7 @@ F 3 "" H 8900 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:10
+L AODox-rescue:D_Small_ALT-Device D0:10
 U 1 1 5DB87D72
 P 8600 3250
 F 0 "D0:10" V 8600 3200 50  0000 R CNN
@@ -1175,7 +1174,7 @@ F 3 "" H 8900 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:10
+L AODox-rescue:D_Small_ALT-Device D1:10
 U 1 1 5DB87D87
 P 8600 3750
 F 0 "D1:10" V 8600 3700 50  0000 R CNN
@@ -1201,7 +1200,7 @@ F 3 "" H 8900 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:10
+L AODox-rescue:D_Small_ALT-Device D2:10
 U 1 1 5DB87D9C
 P 8600 4250
 F 0 "D2:10" V 8600 4200 50  0000 R CNN
@@ -1227,7 +1226,7 @@ F 3 "" H 8900 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:10
+L AODox-rescue:D_Small_ALT-Device D4:10
 U 1 1 5DB87DB1
 P 8600 5250
 F 0 "D4:10" V 8600 5200 50  0000 R CNN
@@ -1261,7 +1260,7 @@ F 3 "" H 10300 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:12
+L AODox-rescue:D_Small_ALT-Device D0:12
 U 1 1 5DB8E6E2
 P 10000 3250
 F 0 "D0:12" V 10000 3200 50  0000 R CNN
@@ -1287,7 +1286,7 @@ F 3 "" H 10300 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:12
+L AODox-rescue:D_Small_ALT-Device D1:12
 U 1 1 5DB8E6F7
 P 10000 3750
 F 0 "D1:12" V 10000 3700 50  0000 R CNN
@@ -1313,7 +1312,7 @@ F 3 "" H 10300 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:12
+L AODox-rescue:D_Small_ALT-Device D2:12
 U 1 1 5DB8E70C
 P 10000 4250
 F 0 "D2:12" V 10000 4200 50  0000 R CNN
@@ -1339,7 +1338,7 @@ F 3 "" H 10300 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:12
+L AODox-rescue:D_Small_ALT-Device D3:12
 U 1 1 5DB8E721
 P 10000 4750
 F 0 "D3:12" V 10000 4700 50  0000 R CNN
@@ -1365,7 +1364,7 @@ F 3 "" H 10300 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:12
+L AODox-rescue:D_Small_ALT-Device D4:12
 U 1 1 5DB8E736
 P 10000 5250
 F 0 "D4:12" V 10000 5200 50  0000 R CNN
@@ -1402,7 +1401,7 @@ F 3 "" H 11000 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:13
+L AODox-rescue:D_Small_ALT-Device D0:13
 U 1 1 5DB8E752
 P 10700 3250
 F 0 "D0:13" V 10700 3200 50  0000 R CNN
@@ -1428,7 +1427,7 @@ F 3 "" H 11000 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:13
+L AODox-rescue:D_Small_ALT-Device D1:13
 U 1 1 5DB8E767
 P 10700 3750
 F 0 "D1:13" V 10700 3700 50  0000 R CNN
@@ -1454,7 +1453,7 @@ F 3 "" H 11000 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:13
+L AODox-rescue:D_Small_ALT-Device D2:13
 U 1 1 5DB8E77C
 P 10700 4250
 F 0 "D2:13" V 10700 4200 50  0000 R CNN
@@ -1480,7 +1479,7 @@ F 3 "" H 11000 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:13
+L AODox-rescue:D_Small_ALT-Device D3:13
 U 1 1 5DB8E791
 P 10700 4750
 F 0 "D3:13" V 10700 4700 50  0000 R CNN
@@ -1506,7 +1505,7 @@ F 3 "" H 11000 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:13
+L AODox-rescue:D_Small_ALT-Device D4:13
 U 1 1 5DB8E7A6
 P 10700 5250
 F 0 "D4:13" V 10700 5200 50  0000 R CNN
@@ -1543,7 +1542,7 @@ F 3 "" H 11700 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:14
+L AODox-rescue:D_Small_ALT-Device D0:14
 U 1 1 5DB8E7C2
 P 11400 3250
 F 0 "D0:14" V 11400 3200 50  0000 R CNN
@@ -1569,7 +1568,7 @@ F 3 "" H 11700 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:14
+L AODox-rescue:D_Small_ALT-Device D1:14
 U 1 1 5DB8E7D7
 P 11400 3750
 F 0 "D1:14" V 11400 3700 50  0000 R CNN
@@ -1595,7 +1594,7 @@ F 3 "" H 11700 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:14
+L AODox-rescue:D_Small_ALT-Device D2:14
 U 1 1 5DB8E7EC
 P 11400 4250
 F 0 "D2:14" V 11400 4200 50  0000 R CNN
@@ -1621,7 +1620,7 @@ F 3 "" H 11700 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:14
+L AODox-rescue:D_Small_ALT-Device D3:14
 U 1 1 5DB8E801
 P 11400 4750
 F 0 "D3:14" V 11400 4700 50  0000 R CNN
@@ -1647,7 +1646,7 @@ F 3 "" H 11700 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:14
+L AODox-rescue:D_Small_ALT-Device D4:14
 U 1 1 5DB8E816
 P 11400 5250
 F 0 "D4:14" V 11400 5200 50  0000 R CNN
@@ -1684,7 +1683,7 @@ F 3 "" H 12400 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:15
+L AODox-rescue:D_Small_ALT-Device D0:15
 U 1 1 5DB8E832
 P 12100 3250
 F 0 "D0:15" V 12100 3200 50  0000 R CNN
@@ -1710,7 +1709,7 @@ F 3 "" H 12400 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:15
+L AODox-rescue:D_Small_ALT-Device D1:15
 U 1 1 5DB8E847
 P 12100 3750
 F 0 "D1:15" V 12100 3700 50  0000 R CNN
@@ -1736,7 +1735,7 @@ F 3 "" H 12400 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:15
+L AODox-rescue:D_Small_ALT-Device D2:15
 U 1 1 5DB8E85C
 P 12100 4250
 F 0 "D2:15" V 12100 4200 50  0000 R CNN
@@ -1762,7 +1761,7 @@ F 3 "" H 12400 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:15
+L AODox-rescue:D_Small_ALT-Device D3:15
 U 1 1 5DB8E871
 P 12100 4750
 F 0 "D3:15" V 12100 4700 50  0000 R CNN
@@ -1788,7 +1787,7 @@ F 3 "" H 12400 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:15
+L AODox-rescue:D_Small_ALT-Device D4:15
 U 1 1 5DB8E886
 P 12100 5250
 F 0 "D4:15" V 12100 5200 50  0000 R CNN
@@ -1825,7 +1824,7 @@ F 3 "" H 13100 3050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D0:16
+L AODox-rescue:D_Small_ALT-Device D0:16
 U 1 1 5DB8E8A2
 P 12800 3250
 F 0 "D0:16" V 12800 3200 50  0000 R CNN
@@ -1851,7 +1850,7 @@ F 3 "" H 13100 3550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D1:16
+L AODox-rescue:D_Small_ALT-Device D1:16
 U 1 1 5DB8E8B7
 P 12800 3750
 F 0 "D1:16" V 12800 3700 50  0000 R CNN
@@ -1877,7 +1876,7 @@ F 3 "" H 13100 4050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D2:16
+L AODox-rescue:D_Small_ALT-Device D2:16
 U 1 1 5DB8E8CC
 P 12800 4250
 F 0 "D2:16" V 12800 4200 50  0000 R CNN
@@ -1903,7 +1902,7 @@ F 3 "" H 13100 4550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D3:16
+L AODox-rescue:D_Small_ALT-Device D3:16
 U 1 1 5DB8E8E1
 P 12800 4750
 F 0 "D3:16" V 12800 4700 50  0000 R CNN
@@ -1929,7 +1928,7 @@ F 3 "" H 13100 5050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small_ALT D4:16
+L AODox-rescue:D_Small_ALT-Device D4:16
 U 1 1 5DB8E8F6
 P 12800 5250
 F 0 "D4:16" V 12800 5200 50  0000 R CNN
@@ -1966,7 +1965,7 @@ Wire Wire Line
 Wire Wire Line
 	9300 5150 9300 5050
 $Comp
-L Device:D_Small_ALT D4:11
+L AODox-rescue:D_Small_ALT-Device D4:11
 U 1 1 5DB8E910
 P 9300 5250
 F 0 "D4:11" V 9300 5200 50  0000 R CNN
@@ -1992,7 +1991,7 @@ $EndComp
 Wire Wire Line
 	9300 4650 9300 4550
 $Comp
-L Device:D_Small_ALT D3:11
+L AODox-rescue:D_Small_ALT-Device D3:11
 U 1 1 5DB8E925
 P 9300 4750
 F 0 "D3:11" V 9300 4700 50  0000 R CNN
@@ -2018,7 +2017,7 @@ $EndComp
 Wire Wire Line
 	9300 4150 9300 4050
 $Comp
-L Device:D_Small_ALT D2:11
+L AODox-rescue:D_Small_ALT-Device D2:11
 U 1 1 5DB8E93A
 P 9300 4250
 F 0 "D2:11" V 9300 4200 50  0000 R CNN
@@ -2044,7 +2043,7 @@ $EndComp
 Wire Wire Line
 	9300 3650 9300 3550
 $Comp
-L Device:D_Small_ALT D1:11
+L AODox-rescue:D_Small_ALT-Device D1:11
 U 1 1 5DB8E94F
 P 9300 3750
 F 0 "D1:11" V 9300 3700 50  0000 R CNN
@@ -2070,7 +2069,7 @@ $EndComp
 Wire Wire Line
 	9300 3150 9300 3050
 $Comp
-L Device:D_Small_ALT D0:11
+L AODox-rescue:D_Small_ALT-Device D0:11
 U 1 1 5DB8E964
 P 9300 3250
 F 0 "D0:11" V 9300 3200 50  0000 R CNN
