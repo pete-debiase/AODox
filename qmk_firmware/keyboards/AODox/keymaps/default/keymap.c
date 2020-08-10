@@ -31,7 +31,7 @@ enum custom_keycodes {
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-/* Steno
+/*Steno
  * ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┐             ┌─────┬─────┬─────┬─────┬─────┬─────┬───────┐
  * │   -   │ F1  │ F2  │ F3  │ F4  │ F5  │QWTY │ Center keys │ F13 │  F6 │  F7 │  F8 │  F9 │ F10 │   ~   │
  * ├───────┼─────┼─────┼─────┼─────┼─────┼─────┤   ┌─────┐   ├─────┼─────┼─────┼─────┼─────┼─────┼───────┤
@@ -130,7 +130,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     // Right hand
                       KC_F13,    KC_F6,   KC_F7,    KC_F8,          KC_F9,        KC_F10,       KC_GRV,
-                      KC_CALC,   KC_Y,    KC_U,     KC_I,           KC_O,          KC_P,        KC_BSLS,
+                      KC_ENT,    KC_Y,    KC_U,     KC_I,           KC_O,          KC_P,        KC_BSLS,
                                  KC_H,    KC_J,     KC_K,           KC_L,         KC_SCLN,      LT(QSYM, KC_QUOT),
     KC_PGDN,       LCAG_T(KC_K), KC_N,    KC_M,    KC_COMM,         KC_DOT,       KC_SLSH,      KC_RSPC,
     MEH_T(KC_END),    KC_F19,    KC_SPC, KC_LEFT, CTL_T(KC_DOWN), SFT_T(KC_UP), ALT_T(KC_RGHT), KC_PSCR
@@ -165,7 +165,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     // Right hand
              KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
-             KC_TRNS, KC_MINS,   KC_7,    KC_8,    KC_9,  KC_ASTR, KC_BSLS,
+             KC_CALC, KC_MINS,   KC_7,    KC_8,    KC_9,  KC_ASTR, KC_BSLS,
                       KC_COLN,   KC_4,    KC_5,    KC_6,  KC_PPLS, KC_MINS,
     KC_TRNS, KC_TRNS, KC_COMM,   KC_1,    KC_2,    KC_3,  KC_TRNS, KC_TRNS,
     KC_TRNS, KC_TRNS, KC_TRNS,   KC_0,  KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS

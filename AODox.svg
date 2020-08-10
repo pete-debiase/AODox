@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="AODox.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg1887"
    version="1.1"
    viewBox="0 0 354.272 157.968"
@@ -352,18 +352,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="394.12884"
-     inkscape:cy="333.39847"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="600.66723"
+     inkscape:cy="302.81864"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1934"
+     inkscape:current-layer="g1809"
      showgrid="false"
      objecttolerance="5"
      guidetolerance="5"
-     inkscape:window-width="2189"
-     inkscape:window-height="1195"
-     inkscape:window-x="2189"
-     inkscape:window-y="9"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:snap-smooth-nodes="true"
@@ -381,7 +381,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Bottom"
      id="g1934"
      inkscape:groupmode="layer">
@@ -1400,7 +1400,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.53850269px;line-height:125%;font-family:'Anurati Pro';-inkscape-font-specification:'Anurati Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332px"
-         y="-152.23732"
+         y="-151.39859"
          x="184.42769"
          id="tspan10"
          sodipodi:role="line" /></text>
@@ -2041,7 +2041,7 @@
            x="194.5484"
            sodipodi:role="line">USB C</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
-           y="8.0811939"
+           y="8.0228491"
            x="194.5484"
            sodipodi:role="line"
            id="tspan7715-3">F</tspan></text>
@@ -3602,6 +3602,21 @@
          d="m 159.27036,86.674983 v -0.5"
          style="display:inline;opacity:1;fill:none;fill-opacity:0.82745098;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.86923,-15.872003 h 8.65"
+       id="path2099"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 182.19424,-17.697003 v 1.825"
+       id="path2092-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 182.19423,-15.872003 v 1.58"
+       id="path2092-3-6"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:label="Keycaps"
@@ -7612,7 +7627,7 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Top"
      id="g1809"
      inkscape:groupmode="layer">
