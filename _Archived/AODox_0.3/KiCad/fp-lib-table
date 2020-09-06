@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri C:/Users/Pete/ALL-P70/DV/KiCad/keyswitches.pretty-master)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri C:/Users/Pete/ALL-P70/DV/KiCad/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts_AO)(type KiCad)(uri C:/Users/Pete/ALL-P70/DV/KiCad/keyboard_parts_AO.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/Pete/ALL-P70/DV/KiCad/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name AODox)(type KiCad)(uri ${KIPRJMOD}/AODox.pretty)(options "")(descr ""))
+  (lib (name PCB_logos)(type KiCad)(uri C:/Users/Pete/ALL-P70/DV/AO.industries/Aesthetics/PCB_logos.pretty)(options "")(descr ""))
+)
