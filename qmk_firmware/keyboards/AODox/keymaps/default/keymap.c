@@ -14,6 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #include QMK_KEYBOARD_H
+#include "version.h"
 
 // Defines names for use in layer keycodes and the keymap
 enum AODox_layers {
@@ -26,18 +27,19 @@ enum AODox_layers {
 
 // Defines the keycodes used by our macros in process_record_user
 enum custom_keycodes {
+    QMK_VRN,
     QMKBEST = SAFE_RANGE,
     QMKURL
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-/*Steno
+/* Steno
  * ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┐             ┌─────┬─────┬─────┬─────┬─────┬─────┬───────┐
- * │   -   │ F1  │ F2  │ F3  │ F4  │ F5  │QWTY │ Center keys │ F13 │  F6 │  F7 │  F8 │  F9 │ F10 │   ~   │
+ * │   -   │ F1  │ F2  │ F3  │ F4  │ F5  │tQWTY│ Center keys │ F13 │  F6 │  F7 │  F8 │  F9 │ F10 │   ~   │
  * ├───────┼─────┼─────┼─────┼─────┼─────┼─────┤   ┌─────┐   ├─────┼─────┼─────┼─────┼─────┼─────┼───────┤
- * │Ent/MDA│  Q  │  W  │  E  │  R  │  T  │ F14 │   │     │   │     │  Y  │  U  │  I  │  O  │  P  │  F22  │
+ * │Ent/MDA│  Q  │  W  │  E  │  R  │  T  │ F14 │   │tQWTY│   │     │  Y  │  U  │  I  │  O  │  P  │  F22  │
  * ├───────┼─────┼─────┼─────╆─────╅─────┤     │   ├─────┤   │     ├─────╆─────╅─────┼─────┼─────┼───────┤
- * │Tab/SYM│  A  │  S  │  D  │  F  │  G  ├─────┤   │     │   ├─────┤  H  │  ←  │  ↓  │  ↑  │  →  │   "   │
+ * │Tab/SYM│  A  │  S  │  D  │  F  │  G  ├─────┤   │tQWTY│   ├─────┤  H  │  ←  │  ↓  │  ↑  │  →  │   "   │
  * ├───────┼─────┼─────┼─────╄─────╃─────┤Esc/ │   └─────┘   │  K/ ├─────╄─────╃─────┼─────┼─────┼───────┤
  * │  F15  │  Z  │  X  │  C  │  V  │  B  │LCAG ├─────┐ ┌─────┤ LCAG│  N  │  M  │  ,  │  .  │  ?  │  F23  │
  * └┬──────┼─────┼─────┼─────┼─────┼─────┼─────┤PgUp │ │ PgDn├─────┼─────┼─────┼─────┼─────┼─────┼──────┬┘
@@ -56,7 +58,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     // Center keys
     TG(QWTY),
-    KC_TRNS,
+    KC_ESC,
 
     // Right hand
                       KC_F13,    KC_F6,   KC_F7,    KC_F8,         KC_F9,          KC_F10,     KC_GRV,
@@ -182,7 +184,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * │       │     │     │     │Mute │     │     ├─────┐ ┌─────┤     │     │     │     │     │     │       │
  * └┬──────┼─────┼─────┼─────┼─────┼─────┼─────┤     │ │     ├─────┼─────┼─────┼─────┼─────┼─────┼──────┬┘
  *  │      │     │     │     │Play/│     │     ├─────┤ ├─────┤     │     │     │     │     │     │      │
- *  └──────┴─────┴─────┴─────┤Pause│     │     │     │ │     │     │     │     ├─────┴─────┴─────┴──────┘
+ *  └──────┴─────┴─────┴─────┤Pause│     │     │     │ │QMKVN│     │     │     ├─────┴─────┴─────┴──────┘
  *                           └─────┴─────┴─────┴─────┘ └─────┴─────┴─────┴─────┘
                   Left hand                                                     Right hand
  */
@@ -203,7 +205,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
              KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
                       KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_PWR,
     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
-    KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS
+    QMK_VRN, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS
 ),
 
 /* Blank layer
@@ -244,6 +246,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     switch (keycode) {
+        case QMK_VRN:
+            if (record->event.pressed) {
+                SEND_STRING(QMK_KEYBOARD "/" QMK_KEYMAP " @ " QMK_VERSION);
+            } else {
+            }
+            break;
         case QMKBEST:
             if (record->event.pressed) {
                 // when keycode QMKBEST is pressed

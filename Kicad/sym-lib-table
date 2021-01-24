@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name AODox)(type Legacy)(uri ${KIPRJMOD}/AODox.lib)(options "")(descr ""))
-  (lib (name AODox-rescue)(type Legacy)(uri ${KIPRJMOD}/AODox-rescue.lib)(options "")(descr ""))
-  (lib (name keyboard_parts_AO)(type Legacy)(uri C:/Users/Pete/ALL-P70/DV/KiCad/keyboard_parts_lib_AO/keyboard_parts_AO.lib)(options "")(descr ""))
-)
