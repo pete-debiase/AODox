@@ -116,6 +116,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * power-up.
  *
  */
+#undef FORCE_NKRO
 #define FORCE_NKRO
 
 /*
