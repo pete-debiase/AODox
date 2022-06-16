@@ -173,9 +173,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRNS, KC_TRNS, KC_TRNS,   KC_0,  KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS
 ),
 
-/* Media, power, and RESET
+/* Media, power, and QK_BOOT
  * ┌───────┬─────┬─────┬─────┬─────┬─────┬─────┐             ┌─────┬─────┬─────┬─────┬─────┬─────┬───────┐
- * │       │     │     │     │     │     │     │ Center keys │     │     │     │     │     │     │ RESET │
+ * │       │     │     │     │     │     │     │ Center keys │     │     │     │     │     │     │QK_BOOT│
  * ├───────┼─────┼─────┼─────┼─────┼─────┼─────┤   ┌─────┐   ├─────┼─────┼─────┼─────┼─────┼─────┼───────┤
  * │       │     │     │     │VolUp│     │     │   │SLEEP│   │     │     │     │     │     │     │       │
  * ├───────┼─────┼─────┼─────╆─────╅─────┤     │   ├─────┤   │     ├─────╆─────╅─────┼─────┼─────┼───────┤
@@ -201,7 +201,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_WAKE,
 
     // Right hand
-             KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, RESET,
+             KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, QK_BOOT,
              KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
                       KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_PWR,
     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,

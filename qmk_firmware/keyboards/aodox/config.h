@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER 0x0001
 #define MANUFACTURER AOindustries
 #define PRODUCT AODox
-#define DESCRIPTION Ergonomic mech optimized for steno
+// #define DESCRIPTION Ergonomic mech optimized for steno
 
 /* key matrix size */
 #define MATRIX_ROWS 5
